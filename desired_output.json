@@ -1,0 +1,5578 @@
+[
+  {
+    "rank": 1,
+    "id": "tt0111161",
+    "name": "The Shawshank Redemption",
+    "year": 1994,
+    "imbd_votes": 2601152,
+    "imdb_rating": 9.3,
+    "certificate": "A",
+    "duration": 142,
+    "genre": "Drama",
+    "img_link": "https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_QL75_UX380_CR0",
+    "cast": [
+      {
+        "id": "nm0000209",
+        "name": "Tim Robbins"
+      },
+      {
+        "id": "nm0000151",
+        "name": "Morgan Freeman"
+      },
+      {
+        "id": "nm0348409",
+        "name": "Bob Gunton"
+      },
+      {
+        "id": "nm0006669",
+        "name": "William Sadler"
+      },
+      {
+        "id": "nm0000317",
+        "name": "Clancy Brown"
+      },
+      {
+        "id": "nm0004743",
+        "name": "Gil Bellows"
+      },
+      {
+        "id": "nm0001679",
+        "name": "Mark Rolston"
+      },
+      {
+        "id": "nm0926235",
+        "name": "James Whitmore"
+      },
+      {
+        "id": "nm0218810",
+        "name": "Jeffrey DeMunn"
+      },
+      {
+        "id": "nm0104594",
+        "name": "Larry Brandenburg"
+      },
+      {
+        "id": "nm0321358",
+        "name": "Neil Giuntoli"
+      },
+      {
+        "id": "nm0508742",
+        "name": "Brian Libby"
+      },
+      {
+        "id": "nm0698998",
+        "name": "David Proval"
+      },
+      {
+        "id": "nm0706554",
+        "name": "Joseph Ragno"
+      },
+      {
+        "id": "nm0161980",
+        "name": "Jude Ciccolella"
+      },
+      {
+        "id": "nm0005204",
+        "name": "Paul McCrane"
+      },
+      {
+        "id": "nm0086169",
+        "name": "Renee Blaine"
+      },
+      {
+        "id": "nm0542957",
+        "name": "Scott Mann"
+      }
+    ],
+    "director": {
+      "id": "nm0001104",
+      "name": "Frank Darabont"
+    },
+    "writers": [
+      {
+        "id": "nm0000175",
+        "name": "Stephen King",
+        "valid": true
+      },
+      {
+        "id": "nm0001104",
+        "name": "Frank Darabont",
+        "valid": true
+      }
+    ],
+    "extra_genres": [
+      "Drama"
+    ],
+    "rating_percentage": 93.0,
+    "popularity_score": 24190.71,
+    "duration_hours": 2.37,
+    "release_date": "1994-01-01",
+    "reception": {
+      "year_average_rating": 8.8,
+      "rating_difference": 0.5,
+      "category": "Average"
+    }
+  },
+  {
+    "rank": 2,
+    "id": "tt0068646",
+    "name": "The Godfather",
+    "year": 1972,
+    "imbd_votes": 1796656,
+    "imdb_rating": 9.2,
+    "certificate": "A",
+    "duration": 175,
+    "genre": "Crime,Drama",
+    "img_link": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_QL75_UY562_CR8",
+    "cast": [
+      {
+        "id": "nm0000008",
+        "name": "Marlon Brando"
+      },
+      {
+        "id": "nm0000199",
+        "name": "Al Pacino"
+      },
+      {
+        "id": "nm0001001",
+        "name": "James Caan"
+      },
+      {
+        "id": "nm0000473",
+        "name": "Diane Keaton"
+      },
+      {
+        "id": "nm0144710",
+        "name": "Richard S. Castellano"
+      },
+      {
+        "id": "nm0000380",
+        "name": "Robert Duvall"
+      },
+      {
+        "id": "nm0001330",
+        "name": "Sterling Hayden"
+      },
+      {
+        "id": "nm0549134",
+        "name": "John Marley"
+      },
+      {
+        "id": "nm0002017",
+        "name": "Richard Conte"
+      },
+      {
+        "id": "nm0504803",
+        "name": "Al Lettieri"
+      },
+      {
+        "id": "nm0001820",
+        "name": "Abe Vigoda"
+      },
+      {
+        "id": "nm0001735",
+        "name": "Talia Shire"
+      },
+      {
+        "id": "nm0751625",
+        "name": "Gianni Russo"
+      },
+      {
+        "id": "nm0001030",
+        "name": "John Cazale"
+      },
+      {
+        "id": "nm0094036",
+        "name": "Rudy Bond"
+      },
+      {
+        "id": "nm0553887",
+        "name": "Al Martino"
+      },
+      {
+        "id": "nm0455088",
+        "name": "Morgana King"
+      },
+      {
+        "id": "nm0598926",
+        "name": "Lenny Montana"
+      }
+    ],
+    "director": {
+      "id": "nm0000338",
+      "name": "Francis Ford Coppola"
+    },
+    "writers": [
+      {
+        "id": "nm0701374",
+        "name": "Mario Puzo",
+        "valid": true
+      },
+      {
+        "id": "nm0000338",
+        "name": "Francis Ford Coppola",
+        "valid": true
+      }
+    ],
+    "extra_genres": [
+      "Drama",
+      "Crime"
+    ],
+    "rating_percentage": 92.0,
+    "popularity_score": 16529.24,
+    "duration_hours": 2.92,
+    "release_date": "1972-01-01",
+    "reception": {
+      "year_average_rating": 9.2,
+      "rating_difference": 0.0,
+      "category": "Average"
+    }
+  },
+  {
+    "rank": 3,
+    "id": "tt0468569",
+    "name": "The Dark Knight",
+    "year": 2008,
+    "imbd_votes": 2572662,
+    "imdb_rating": 9.0,
+    "certificate": "UA",
+    "duration": 152,
+    "genre": "Action,Crime,Drama",
+    "img_link": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_QL75_UX380_CR0",
+    "cast": [
+      {
+        "id": "nm0000288",
+        "name": "Christian Bale"
+      },
+      {
+        "id": "nm0005132",
+        "name": "Heath Ledger"
+      },
+      {
+        "id": "nm0001173",
+        "name": "Aaron Eckhart"
+      },
+      {
+        "id": "nm0000323",
+        "name": "Michael Caine"
+      },
+      {
+        "id": "nm0350454",
+        "name": "Maggie Gyllenhaal"
+      },
+      {
+        "id": "nm0000198",
+        "name": "Gary Oldman"
+      },
+      {
+        "id": "nm0000151",
+        "name": "Morgan Freeman"
+      },
+      {
+        "id": "nm1010931",
+        "name": "Monique Gabriela Curnen"
+      },
+      {
+        "id": "nm0212939",
+        "name": "Ron Dean"
+      },
+      {
+        "id": "nm0614165",
+        "name": "Cillian Murphy"
+      },
+      {
+        "id": "nm1977856",
+        "name": "Chin Han"
+      },
+      {
+        "id": "nm0004801",
+        "name": "Nestor Carbonell"
+      },
+      {
+        "id": "nm0000616",
+        "name": "Eric Roberts"
+      },
+      {
+        "id": "nm0182662",
+        "name": "Ritchie Coster"
+      },
+      {
+        "id": "nm0001309",
+        "name": "Anthony Michael Hall"
+      },
+      {
+        "id": "nm0843775",
+        "name": "Keith Szarabajka"
+      },
+      {
+        "id": "nm0568801",
+        "name": "Colin McFarlane"
+      },
+      {
+        "id": "nm0367176",
+        "name": "Joshua Harto"
+      }
+    ],
+    "director": {
+      "id": "nm0634240",
+      "name": "Christopher Nolan"
+    },
+    "writers": [
+      {
+        "id": "nm0634300",
+        "name": "Jonathan Nolan",
+        "valid": true
+      },
+      {
+        "id": "nm0634240",
+        "name": "Christopher Nolan",
+        "valid": true
+      },
+      {
+        "id": "nm0275286",
+        "name": "David S. Goyer",
+        "valid": true
+      }
+    ],
+    "extra_genres": [
+      "Drama",
+      "Crime",
+      "Action"
+    ],
+    "rating_percentage": 90.0,
+    "popularity_score": 23153.96,
+    "duration_hours": 2.53,
+    "release_date": "2008-01-01",
+    "reception": {
+      "year_average_rating": 9.0,
+      "rating_difference": 0.0,
+      "category": "Average"
+    }
+  },
+  {
+    "rank": 4,
+    "id": "tt0071562",
+    "name": "The Godfather Part II",
+    "year": 1974,
+    "imbd_votes": 1237934,
+    "imdb_rating": 9.0,
+    "certificate": "A",
+    "duration": 202,
+    "genre": "Crime,Drama",
+    "img_link": "https://m.media-amazon.com/images/M/MV5BMWMwMGQzZTItY2JlNC00OWZiLWIyMDctNDk2ZDQ2YjRjMWQ0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_QL75_UY562_CR7",
+    "cast": [
+      {
+        "id": "nm0000199",
+        "name": "Al Pacino"
+      },
+      {
+        "id": "nm0000134",
+        "name": "Robert De Niro"
+      },
+      {
+        "id": "nm0000380",
+        "name": "Robert Duvall"
+      },
+      {
+        "id": "nm0000473",
+        "name": "Diane Keaton"
+      },
+      {
+        "id": "nm0001030",
+        "name": "John Cazale"
+      },
+      {
+        "id": "nm0001735",
+        "name": "Talia Shire"
+      },
+      {
+        "id": "nm0833448",
+        "name": "Lee Strasberg"
+      },
+      {
+        "id": "nm0311155",
+        "name": "Michael V. Gazzo"
+      },
+      {
+        "id": "nm0819525",
+        "name": "G.D. Spradlin"
+      },
+      {
+        "id": "nm0109175",
+        "name": "Richard Bright"
+      },
+      {
+        "id": "nm0608311",
+        "name": "Gastone Moschin"
+      },
+      {
+        "id": "nm0743159",
+        "name": "Tom Rosqui"
+      },
+      {
+        "id": "nm0456124",
+        "name": "Bruno Kirby"
+      },
+      {
+        "id": "nm0803370",
+        "name": "Frank Sivero"
+      },
+      {
+        "id": "nm0211495",
+        "name": "Francesca De Sapio"
+      },
+      {
+        "id": "nm0455088",
+        "name": "Morgana King"
+      },
+      {
+        "id": "nm0384494",
+        "name": "Marianna Hill"
+      },
+      {
+        "id": "nm0872689",
+        "name": "Leopoldo Trieste"
+      }
+    ],
+    "director": {
+      "id": "nm0000338",
+      "name": "Francis Ford Coppola"
+    },
+    "writers": [
+      {
+        "id": "nm0000338",
+        "name": "Francis Ford Coppola",
+        "valid": true
+      },
+      {
+        "id": "nm0701374",
+        "name": "Mario Puzo",
+        "valid": true
+      }
+    ],
+    "extra_genres": [
+      "Drama",
+      "Crime"
+    ],
+    "rating_percentage": 90.0,
+    "popularity_score": 11141.41,
+    "duration_hours": 3.37,
+    "release_date": "1974-01-01",
+    "reception": {
+      "year_average_rating": 9.0,
+      "rating_difference": 0.0,
+      "category": "Average"
+    }
+  },
+  {
+    "rank": 5,
+    "id": "tt0050083",
+    "name": "12 Angry Men",
+    "year": 1957,
+    "imbd_votes": 768548,
+    "imdb_rating": 9.0,
+    "certificate": "U",
+    "duration": 96,
+    "genre": "Crime,Drama",
+    "img_link": "https://m.media-amazon.com/images/M/MV5BMWU4N2FjNzYtNTVkNC00NzQ0LTg0MjAtYTJlMjFhNGUxZDFmXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_QL75_UX380_CR0",
+    "cast": [
+      {
+        "id": "nm0000020",
+        "name": "Henry Fonda"
+      },
+      {
+        "id": "nm0002011",
+        "name": "Lee J. Cobb"
+      },
+      {
+        "id": "nm0000842",
+        "name": "Martin Balsam"
+      },
+      {
+        "id": "nm0275835",
+        "name": "John Fiedler"
+      },
+      {
+        "id": "nm0550855",
+        "name": "E.G. Marshall"
+      },
+      {
+        "id": "nm0001430",
+        "name": "Jack Klugman"
+      },
+      {
+        "id": "nm0083081",
+        "name": "Edward Binns"
+      },
+      {
+        "id": "nm0912001",
+        "name": "Jack Warden"
+      },
+      {
+        "id": "nm0842137",
+        "name": "Joseph Sweeney"
+      },
+      {
+        "id": "nm0003225",
+        "name": "Ed Begley"
+      },
+      {
+        "id": "nm0903667",
+        "name": "George Voskovec"
+      },
+      {
+        "id": "nm0916434",
+        "name": "Robert Webber"
+      },
+      {
+        "id": "nm0094036",
+        "name": "Rudy Bond"
+      },
+      {
+        "id": "nm0331131",
+        "name": "Tom Gorman"
+      },
+      {
+        "id": "nm0446450",
+        "name": "James Kelly"
+      },
+      {
+        "id": "nm0625180",
+        "name": "Billy Nelson"
+      },
+      {
+        "id": "nm0767847",
+        "name": "John Savoca"
+      },
+      {
+        "id": "nm0830818",
+        "name": "Walter Stocker"
+      }
+    ],
+    "director": {
+      "id": "nm0001486",
+      "name": "Sidney Lumet"
+    },
+    "writers": [
+      {
+        "id": "nm0741627",
+        "name": "Reginald Rose",
+        "valid": true
+      }
+    ],
+    "extra_genres": [
+      "Drama",
+      "Crime"
+    ],
+    "rating_percentage": 90.0,
+    "popularity_score": 6916.93,
+    "duration_hours": 1.6,
+    "release_date": "1957-01-01",
+    "reception": {
+      "year_average_rating": 9.0,
+      "rating_difference": 0.0,
+      "category": "Average"
+    }
+  },
+  {
+    "rank": 6,
+    "id": "tt0108052",
+    "name": "Schindler's List",
+    "year": 1993,
+    "imbd_votes": 1322917,
+    "imdb_rating": 9.0,
+    "certificate": "A",
+    "duration": 195,
+    "genre": "Biography,Drama,History",
+    "img_link": "https://m.media-amazon.com/images/M/MV5BNDE4OTMxMTctNmRhYy00NWE2LTg3YzItYTk3M2UwOTU5Njg4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL75_UX380_CR0",
+    "cast": [
+      {
+        "id": "nm0000553",
+        "name": "Liam Neeson"
+      },
+      {
+        "id": "nm0000146",
+        "name": "Ralph Fiennes"
+      },
+      {
+        "id": "nm0001426",
+        "name": "Ben Kingsley"
+      },
+      {
+        "id": "nm0328751",
+        "name": "Caroline Goodall"
+      },
+      {
+        "id": "nm0755974",
+        "name": "Jonathan Sagall"
+      },
+      {
+        "id": "nm0001110",
+        "name": "Embeth Davidtz"
+      },
+      {
+        "id": "nm0311343",
+        "name": "Malgorzata Gebel"
+      },
+      {
+        "id": "nm0506616",
+        "name": "Shmuel Levy"
+      },
+      {
+        "id": "nm0411980",
+        "name": "Mark Ivanir"
+      },
+      {
+        "id": "nm0534151",
+        "name": "B\u00e9atrice Macola"
+      },
+      {
+        "id": "nm0786614",
+        "name": "Andrzej Seweryn"
+      },
+      {
+        "id": "nm0903110",
+        "name": "Friedrich von Thun"
+      },
+      {
+        "id": "nm0525181",
+        "name": "Krzysztof Luft"
+      },
+      {
+        "id": "nm0624582",
+        "name": "Harry Nehring"
+      },
+      {
+        "id": "nm0919256",
+        "name": "Norbert Weisser"
+      },
+      {
+        "id": "nm0633058",
+        "name": "Adi Nitzan"
+      },
+      {
+        "id": "nm0773946",
+        "name": "Michael Schneider"
+      },
+      {
+        "id": "nm0264577",
+        "name": "Miri Fabian"
+      }
+    ],
+    "director": {
+      "id": "nm0000229",
+      "name": "Steven Spielberg"
+    },
+    "writers": [
+      {
+        "id": "nm0447745",
+        "name": "Thomas Keneally",
+        "valid": true
+      },
+      {
+        "id": "nm0001873",
+        "name": "Steven Zaillian",
+        "valid": true
+      }
+    ],
+    "extra_genres": [
+      "Drama",
+      "Biography",
+      "History"
+    ],
+    "rating_percentage": 90.0,
+    "popularity_score": 11906.25,
+    "duration_hours": 3.25,
+    "release_date": "1993-01-01",
+    "reception": {
+      "year_average_rating": 9.0,
+      "rating_difference": 0.0,
+      "category": "Average"
+    }
+  },
+  {
+    "rank": 7,
+    "id": "tt0167260",
+    "name": "The Lord of the Rings: The Return of the King",
+    "year": 2003,
+    "imbd_votes": 1786498,
+    "imdb_rating": 9.0,
+    "certificate": "U",
+    "duration": 201,
+    "genre": "Action,Adventure,Drama",
+    "img_link": "https://m.media-amazon.com/images/M/MV5BOGM4ZTE3MmUtY2EzYy00YTYyLTkwZTUtYWFhNTBiNGY1ZDg0XkEyXkFqcGdeQXVyMzExODEzNDA@._V1_QL75_UX380_CR0",
+    "cast": [
+      {
+        "id": "nm0000704",
+        "name": "Elijah Wood"
+      },
+      {
+        "id": "nm0001557",
+        "name": "Viggo Mortensen"
+      },
+      {
+        "id": "nm0005212",
+        "name": "Ian McKellen"
+      },
+      {
+        "id": "nm0089217",
+        "name": "Orlando Bloom"
+      },
+      {
+        "id": "nm0032370",
+        "name": "Noel Appleby"
+      },
+      {
+        "id": "nm0040012",
+        "name": "Ali Astin"
+      },
+      {
+        "id": "nm0000276",
+        "name": "Sean Astin"
+      },
+      {
+        "id": "nm0040058",
+        "name": "David Aston"
+      },
+      {
+        "id": "nm0045324",
+        "name": "John Bach"
+      },
+      {
+        "id": "nm0000293",
+        "name": "Sean Bean"
+      },
+      {
+        "id": "nm0000949",
+        "name": "Cate Blanchett"
+      },
+      {
+        "id": "nm0101710",
+        "name": "Billy Boyd"
+      },
+      {
+        "id": "nm1480092",
+        "name": "Sadwyn Brophy"
+      },
+      {
+        "id": "nm0115143",
+        "name": "Alistair Browning"
+      },
+      {
+        "id": "nm0190744",
+        "name": "Marton Csokas"
+      },
+      {
+        "id": "nm1480102",
+        "name": "Richard Edge"
+      },
+      {
+        "id": "nm1480106",
+        "name": "Jason Fitch"
+      },
+      {
+        "id": "nm0384060",
+        "name": "Bernard Hill"
+      }
+    ],
+    "director": {
+      "id": "nm0001392",
+      "name": "Peter Jackson"
+    },
+    "writers": [
+      {
+        "id": "nm0866058",
+        "name": "J.R.R. Tolkien",
+        "valid": true
+      },
+      {
+        "id": "nm0909638",
+        "name": "Fran Walsh",
+        "valid": true
+      },
+      {
+        "id": "nm0101991",
+        "name": "Philippa Boyens",
+        "valid": true
+      }
+    ],
+    "extra_genres": [
+      "Drama",
+      "Adventure",
+      "Action"
+    ],
+    "rating_percentage": 90.0,
+    "popularity_score": 16078.48,
+    "duration_hours": 3.35,
+    "release_date": "2003-01-01",
+    "reception": {
+      "year_average_rating": 9.0,
+      "rating_difference": 0.0,
+      "category": "Average"
+    }
+  },
+  {
+    "rank": 8,
+    "id": "tt0110912",
+    "name": "Pulp Fiction",
+    "year": 1994,
+    "imbd_votes": 1993957,
+    "imdb_rating": 8.9,
+    "certificate": "A",
+    "duration": 154,
+    "genre": "Crime,Drama",
+    "img_link": "https://m.media-amazon.com/images/M/MV5BNGNhMDIzZTUtNTBlZi00MTRlLWFjM2ItYzViMjE3YzI5MjljXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_QL75_UY562_CR3",
+    "cast": [
+      {
+        "id": "nm0000237",
+        "name": "John Travolta"
+      },
+      {
+        "id": "nm0000235",
+        "name": "Uma Thurman"
+      },
+      {
+        "id": "nm0000168",
+        "name": "Samuel L. Jackson"
+      },
+      {
+        "id": "nm0000246",
+        "name": "Bruce Willis"
+      },
+      {
+        "id": "nm0000619",
+        "name": "Tim Roth"
+      },
+      {
+        "id": "nm0001625",
+        "name": "Amanda Plummer"
+      },
+      {
+        "id": "nm0522503",
+        "name": "Laura Lovelace"
+      },
+      {
+        "id": "nm0482851",
+        "name": "Phil LaMarr"
+      },
+      {
+        "id": "nm0001844",
+        "name": "Frank Whaley"
+      },
+      {
+        "id": "nm0824882",
+        "name": "Burr Steers"
+      },
+      {
+        "id": "nm0000609",
+        "name": "Ving Rhames"
+      },
+      {
+        "id": "nm0129538",
+        "name": "Paul Calderon"
+      },
+      {
+        "id": "nm0302345",
+        "name": "Bronagh Gallagher"
+      },
+      {
+        "id": "nm0000275",
+        "name": "Rosanna Arquette"
+      },
+      {
+        "id": "nm0000655",
+        "name": "Eric Stoltz"
+      },
+      {
+        "id": "nm0387533",
+        "name": "Jerome Patrick Hoban"
+      },
+      {
+        "id": "nm0318402",
+        "name": "Michael Gilden"
+      },
+      {
+        "id": "nm0794967",
+        "name": "Gary Shorelle"
+      }
+    ],
+    "director": {
+      "id": "nm0000233",
+      "name": "Quentin Tarantino"
+    },
+    "writers": [
+      {
+        "id": "nm0000233",
+        "name": "Quentin Tarantino",
+        "valid": true
+      },
+      {
+        "id": "nm0000812",
+        "name": "Roger Avary",
+        "valid": true
+      }
+    ],
+    "extra_genres": [
+      "Drama",
+      "Crime"
+    ],
+    "rating_percentage": 89.0,
+    "popularity_score": 17746.22,
+    "duration_hours": 2.57,
+    "release_date": "1994-01-01",
+    "reception": {
+      "year_average_rating": 8.8,
+      "rating_difference": 0.1,
+      "category": "Average"
+    }
+  },
+  {
+    "rank": 9,
+    "id": "tt0120737",
+    "name": "The Lord of the Rings: The Fellowship of the Ring",
+    "year": 2001,
+    "imbd_votes": 1807565,
+    "imdb_rating": 8.8,
+    "certificate": "U",
+    "duration": 178,
+    "genre": "Action,Adventure,Drama",
+    "img_link": "https://m.media-amazon.com/images/M/MV5BMTlmYzVjNGUtNTc3MC00YjQ2LWIyY2ItMjY0ODU4NWJmZThhXkEyXkFqcGdeQXVyMzExODEzNDA@._V1_QL75_UY562_CR8",
+    "cast": [
+      {
+        "id": "nm0000704",
+        "name": "Elijah Wood"
+      },
+      {
+        "id": "nm0005212",
+        "name": "Ian McKellen"
+      },
+      {
+        "id": "nm0089217",
+        "name": "Orlando Bloom"
+      },
+      {
+        "id": "nm0000293",
+        "name": "Sean Bean"
+      },
+      {
+        "id": "nm0397102",
+        "name": "Alan Howard"
+      },
+      {
+        "id": "nm0032370",
+        "name": "Noel Appleby"
+      },
+      {
+        "id": "nm0000276",
+        "name": "Sean Astin"
+      },
+      {
+        "id": "nm1019674",
+        "name": "Sala Baker"
+      },
+      {
+        "id": "nm0101710",
+        "name": "Billy Boyd"
+      },
+      {
+        "id": "nm0785227",
+        "name": "Andy Serkis"
+      },
+      {
+        "id": "nm0190744",
+        "name": "Marton Csokas"
+      },
+      {
+        "id": "nm0001557",
+        "name": "Viggo Mortensen"
+      },
+      {
+        "id": "nm1104283",
+        "name": "Megan Edwards"
+      },
+      {
+        "id": "nm1096480",
+        "name": "Michael Elsworth"
+      },
+      {
+        "id": "nm0000949",
+        "name": "Cate Blanchett"
+      },
+      {
+        "id": "nm0272527",
+        "name": "Mark Ferguson"
+      },
+      {
+        "id": "nm0000453",
+        "name": "Ian Holm"
+      },
+      {
+        "id": "nm0000489",
+        "name": "Christopher Lee"
+      }
+    ],
+    "director": {
+      "id": "nm0001392",
+      "name": "Peter Jackson"
+    },
+    "writers": [
+      {
+        "id": "nm0866058",
+        "name": "J.R.R. Tolkien",
+        "valid": true
+      },
+      {
+        "id": "nm0909638",
+        "name": "Fran Walsh",
+        "valid": true
+      },
+      {
+        "id": "nm0101991",
+        "name": "Philippa Boyens",
+        "valid": true
+      }
+    ],
+    "extra_genres": [
+      "Drama",
+      "Adventure",
+      "Action"
+    ],
+    "rating_percentage": 88.0,
+    "popularity_score": 15906.57,
+    "duration_hours": 2.97,
+    "release_date": "2001-01-01",
+    "reception": {
+      "year_average_rating": 8.7,
+      "rating_difference": 0.1,
+      "category": "Average"
+    }
+  },
+  {
+    "rank": 10,
+    "id": "tt0060196",
+    "name": "Il buono, il brutto, il cattivo",
+    "year": 1966,
+    "imbd_votes": 746053,
+    "imdb_rating": 8.8,
+    "certificate": "A",
+    "duration": 161,
+    "genre": "Adventure,Western",
+    "img_link": "https://m.media-amazon.com/images/M/MV5BNjY3NThiMTgtM2IxNy00N2NiLTk0NmUtOGE0MWM3YzE5MzQ0XkEyXkFqcGdeQXVyMzExODEzNDA@._V1_QL75_UY562_CR10",
+    "cast": [
+      {
+        "id": "nm0000142",
+        "name": "Clint Eastwood"
+      },
+      {
+        "id": "nm0908919",
+        "name": "Eli Wallach"
+      },
+      {
+        "id": "nm0001812",
+        "name": "Lee Van Cleef"
+      },
+      {
+        "id": "nm0321294",
+        "name": "Aldo Giuffr\u00e8"
+      },
+      {
+        "id": "nm0685559",
+        "name": "Luigi Pistilli"
+      },
+      {
+        "id": "nm0711502",
+        "name": "Rada Rassimov"
+      },
+      {
+        "id": "nm0677654",
+        "name": "Enzo Petito"
+      },
+      {
+        "id": "nm0769116",
+        "name": "Claudio Scarchilli"
+      },
+      {
+        "id": "nm0058384",
+        "name": "John Bartha"
+      },
+      {
+        "id": "nm0520859",
+        "name": "Livio Lorenzon"
+      },
+      {
+        "id": "nm0142804",
+        "name": "Antonio Casale"
+      },
+      {
+        "id": "nm0769118",
+        "name": "Sandro Scarchilli"
+      },
+      {
+        "id": "nm0824934",
+        "name": "Benito Stefanelli"
+      },
+      {
+        "id": "nm0637064",
+        "name": "Angelo Novi"
+      },
+      {
+        "id": "nm0143030",
+        "name": "Antonio Casas"
+      },
+      {
+        "id": "nm0759757",
+        "name": "Aldo Sambrell"
+      },
+      {
+        "id": "nm0612468",
+        "name": "Al Mulock"
+      },
+      {
+        "id": "nm0579155",
+        "name": "Sergio Mendiz\u00e1bal"
+      }
+    ],
+    "director": {
+      "id": "nm0001466",
+      "name": "Sergio Leone"
+    },
+    "writers": [
+      {
+        "id": "nm0898812",
+        "name": "Luciano Vincenzoni",
+        "valid": true
+      },
+      {
+        "id": "nm0001466",
+        "name": "Sergio Leone",
+        "valid": true
+      },
+      {
+        "id": "nm0408488",
+        "name": "Agenore Incrocci",
+        "valid": true
+      }
+    ],
+    "extra_genres": [
+      "Western",
+      "Adventure"
+    ],
+    "rating_percentage": 88.0,
+    "popularity_score": 6565.27,
+    "duration_hours": 2.68,
+    "release_date": "1966-01-01",
+    "reception": {
+      "year_average_rating": 8.8,
+      "rating_difference": 0.0,
+      "category": "Average"
+    }
+  },
+  {
+    "rank": 11,
+    "id": "tt0109830",
+    "name": "Forrest Gump",
+    "year": 1994,
+    "imbd_votes": 2009640,
+    "imdb_rating": 8.8,
+    "certificate": "UA",
+    "duration": 142,
+    "genre": "Drama,Romance",
+    "img_link": "https://m.media-amazon.com/images/M/MV5BNWIwODRlZTUtY2U3ZS00Yzg1LWJhNzYtMmZiYmEyNmU1NjMzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_QL75_UY562_CR4",
+    "cast": [
+      {
+        "id": "nm0000158",
+        "name": "Tom Hanks"
+      },
+      {
+        "id": "nm0000705",
+        "name": "Robin Wright"
+      },
+      {
+        "id": "nm0000641",
+        "name": "Gary Sinise"
+      },
+      {
+        "id": "nm0000398",
+        "name": "Sally Field"
+      },
+      {
+        "id": "nm0931508",
+        "name": "Rebecca Williams"
+      },
+      {
+        "id": "nm0402011",
+        "name": "Michael Conner Humphreys"
+      },
+      {
+        "id": "nm0381041",
+        "name": "Harold G. Herthum"
+      },
+      {
+        "id": "nm0446404",
+        "name": "George Kelly"
+      },
+      {
+        "id": "nm0672225",
+        "name": "Bob Penny"
+      },
+      {
+        "id": "nm0709615",
+        "name": "John Randall"
+      },
+      {
+        "id": "nm0027402",
+        "name": "Sam Anderson"
+      },
+      {
+        "id": "nm0602071",
+        "name": "Margo Moorer"
+      },
+      {
+        "id": "nm0854295",
+        "name": "Ione M. Telech"
+      },
+      {
+        "id": "nm0780410",
+        "name": "Christine Seabrook"
+      },
+      {
+        "id": "nm0941621",
+        "name": "John Worsham"
+      },
+      {
+        "id": "nm0229930",
+        "name": "Peter Dobson"
+      },
+      {
+        "id": "nm0266441",
+        "name": "Siobhan Fallon Hogan"
+      },
+      {
+        "id": "nm0954754",
+        "name": "Alexander Zemeckis"
+      }
+    ],
+    "director": {
+      "id": "nm0000709",
+      "name": "Robert Zemeckis"
+    },
+    "writers": [
+      {
+        "id": "nm0343165",
+        "name": "Winston Groom",
+        "valid": true
+      },
+      {
+        "id": "nm0744839",
+        "name": "Eric Roth",
+        "valid": true
+      }
+    ],
+    "extra_genres": [
+      "Drama",
+      "Romance"
+    ],
+    "rating_percentage": 88.0,
+    "popularity_score": 17684.83,
+    "duration_hours": 2.37,
+    "release_date": "1994-01-01",
+    "reception": {
+      "year_average_rating": 8.8,
+      "rating_difference": 0.0,
+      "category": "Average"
+    }
+  },
+  {
+    "rank": 12,
+    "id": "tt0137523",
+    "name": "Fight Club",
+    "year": 1999,
+    "imbd_votes": 2048759,
+    "imdb_rating": 8.8,
+    "certificate": "A",
+    "duration": 139,
+    "genre": "Drama",
+    "img_link": "https://m.media-amazon.com/images/M/MV5BNDIzNDU0YzEtYzE5Ni00ZjlkLTk5ZjgtNjM3NWE4YzA3Nzk3XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_QL75_UX380_CR0",
+    "cast": [
+      {
+        "id": "nm0000093",
+        "name": "Brad Pitt"
+      },
+      {
+        "id": "nm0001570",
+        "name": "Edward Norton"
+      },
+      {
+        "id": "nm0001533",
+        "name": "Meat Loaf"
+      },
+      {
+        "id": "nm0340260",
+        "name": "Zach Grenier"
+      },
+      {
+        "id": "nm0037118",
+        "name": "Richmond Arquette"
+      },
+      {
+        "id": "nm0028625",
+        "name": "David Andrews"
+      },
+      {
+        "id": "nm0536574",
+        "name": "George Maguire"
+      },
+      {
+        "id": "nm0094163",
+        "name": "Eugenie Bondurant"
+      },
+      {
+        "id": "nm0127680",
+        "name": "Christina Cabot"
+      },
+      {
+        "id": "nm0000307",
+        "name": "Helena Bonham Carter"
+      },
+      {
+        "id": "nm0173257",
+        "name": "Sydney 'Big Dawg' Colston"
+      },
+      {
+        "id": "nm0802019",
+        "name": "Rachel Singer"
+      },
+      {
+        "id": "nm0188728",
+        "name": "Christie Cronenweth"
+      },
+      {
+        "id": "nm0212498",
+        "name": "Tim DeZarn"
+      },
+      {
+        "id": "nm0125653",
+        "name": "Ezra Buzzington"
+      },
+      {
+        "id": "nm0236148",
+        "name": "Dierdre Downing-Jackson"
+      },
+      {
+        "id": "nm0827307",
+        "name": "Bob Stephenson"
+      },
+      {
+        "id": "nm0217301",
+        "name": "Charlie Dell"
+      }
+    ],
+    "director": {
+      "id": "nm0000399",
+      "name": "David Fincher"
+    },
+    "writers": [
+      {
+        "id": "nm0657333",
+        "name": "Chuck Palahniuk",
+        "valid": true
+      },
+      {
+        "id": "nm0880243",
+        "name": "Jim Uhls",
+        "valid": true
+      }
+    ],
+    "extra_genres": [
+      "Drama"
+    ],
+    "rating_percentage": 88.0,
+    "popularity_score": 18029.08,
+    "duration_hours": 2.32,
+    "release_date": "1999-01-01",
+    "reception": {
+      "year_average_rating": 8.7,
+      "rating_difference": 0.1,
+      "category": "Average"
+    }
+  },
+  {
+    "rank": 13,
+    "id": "tt1375666",
+    "name": "Inception",
+    "year": 2010,
+    "imbd_votes": 2282447,
+    "imdb_rating": 8.8,
+    "certificate": "UA",
+    "duration": 148,
+    "genre": "Action,Adventure,Sci-Fi",
+    "img_link": "https://m.media-amazon.com/images/M/MV5BMmQ3ZDAzZjgtZjU5MC00OTM1LTk1ZmQtM2FmZjIzODE0MmIwXkEyXkFqcGdeQXVyMzExODEzNDA@._V1_QL75_UX380_CR0",
+    "cast": [
+      {
+        "id": "nm0000138",
+        "name": "Leonardo DiCaprio"
+      },
+      {
+        "id": "nm0330687",
+        "name": "Joseph Gordon-Levitt"
+      },
+      {
+        "id": "nm0680983",
+        "name": "Elliot Page"
+      },
+      {
+        "id": "nm0913822",
+        "name": "Ken Watanabe"
+      },
+      {
+        "id": "nm0362766",
+        "name": "Tom Hardy"
+      },
+      {
+        "id": "nm2438307",
+        "name": "Dileep Rao"
+      },
+      {
+        "id": "nm0614165",
+        "name": "Cillian Murphy"
+      },
+      {
+        "id": "nm0000297",
+        "name": "Tom Berenger"
+      },
+      {
+        "id": "nm0182839",
+        "name": "Marion Cotillard"
+      },
+      {
+        "id": "nm0000592",
+        "name": "Pete Postlethwaite"
+      },
+      {
+        "id": "nm0000323",
+        "name": "Michael Caine"
+      },
+      {
+        "id": "nm0001305",
+        "name": "Lukas Haas"
+      },
+      {
+        "id": "nm2581730",
+        "name": "Tai-Li Lee"
+      },
+      {
+        "id": "nm3637500",
+        "name": "Claire Geare"
+      },
+      {
+        "id": "nm3960408",
+        "name": "Magnus Nolan"
+      },
+      {
+        "id": "nm2855622",
+        "name": "Taylor Geare"
+      },
+      {
+        "id": "nm3638213",
+        "name": "Johnathan Geare"
+      },
+      {
+        "id": "nm0556070",
+        "name": "Tohoru Masamune"
+      }
+    ],
+    "director": {
+      "id": "nm0634240",
+      "name": "Christopher Nolan"
+    },
+    "writers": [
+      {
+        "id": "nm0634240",
+        "name": "Christopher Nolan",
+        "valid": true
+      }
+    ],
+    "extra_genres": [
+      "Sci-Fi",
+      "Adventure",
+      "Action"
+    ],
+    "rating_percentage": 88.0,
+    "popularity_score": 20085.53,
+    "duration_hours": 2.47,
+    "release_date": "2010-01-01",
+    "reception": {
+      "year_average_rating": 8.8,
+      "rating_difference": 0.0,
+      "category": "Average"
+    }
+  },
+  {
+    "rank": 14,
+    "id": "tt0167261",
+    "name": "The Lord of the Rings: The Two Towers",
+    "year": 2002,
+    "imbd_votes": 1613445,
+    "imdb_rating": 8.8,
+    "certificate": "UA",
+    "duration": 179,
+    "genre": "Action,Adventure,Drama",
+    "img_link": "https://m.media-amazon.com/images/M/MV5BNWNkNTI2MGItYTQyMS00NTJhLWI3N2QtNmIxZjQwMTEzNGZhXkEyXkFqcGdeQXVyMzExODEzNDA@._V1_QL75_UY562_CR9",
+    "cast": [
+      {
+        "id": "nm0000704",
+        "name": "Elijah Wood"
+      },
+      {
+        "id": "nm0005212",
+        "name": "Ian McKellen"
+      },
+      {
+        "id": "nm0001557",
+        "name": "Viggo Mortensen"
+      },
+      {
+        "id": "nm0089217",
+        "name": "Orlando Bloom"
+      },
+      {
+        "id": "nm0021600",
+        "name": "Bruce Allpress"
+      },
+      {
+        "id": "nm0000276",
+        "name": "Sean Astin"
+      },
+      {
+        "id": "nm0045324",
+        "name": "John Bach"
+      },
+      {
+        "id": "nm1019674",
+        "name": "Sala Baker"
+      },
+      {
+        "id": "nm0000949",
+        "name": "Cate Blanchett"
+      },
+      {
+        "id": "nm0101710",
+        "name": "Billy Boyd"
+      },
+      {
+        "id": "nm0112400",
+        "name": "Jed Brophy"
+      },
+      {
+        "id": "nm1275186",
+        "name": "Sam Comery"
+      },
+      {
+        "id": "nm0000374",
+        "name": "Brad Dourif"
+      },
+      {
+        "id": "nm1275727",
+        "name": "Calum Gittins"
+      },
+      {
+        "id": "nm0384060",
+        "name": "Bernard Hill"
+      },
+      {
+        "id": "nm0394126",
+        "name": "Bruce Hopkins"
+      },
+      {
+        "id": "nm1277591",
+        "name": "Paris Howe Strewe"
+      },
+      {
+        "id": "nm0000489",
+        "name": "Christopher Lee"
+      }
+    ],
+    "director": {
+      "id": "nm0001392",
+      "name": "Peter Jackson"
+    },
+    "writers": [
+      {
+        "id": "nm0866058",
+        "name": "J.R.R. Tolkien",
+        "valid": true
+      },
+      {
+        "id": "nm0909638",
+        "name": "Fran Walsh",
+        "valid": true
+      },
+      {
+        "id": "nm0101991",
+        "name": "Philippa Boyens",
+        "valid": true
+      }
+    ],
+    "extra_genres": [
+      "Drama",
+      "Adventure",
+      "Action"
+    ],
+    "rating_percentage": 88.0,
+    "popularity_score": 14198.32,
+    "duration_hours": 2.98,
+    "release_date": "2002-01-01",
+    "reception": {
+      "year_average_rating": 8.63,
+      "rating_difference": 0.17,
+      "category": "Average"
+    }
+  },
+  {
+    "rank": 15,
+    "id": "tt0080684",
+    "name": "The Empire Strikes Back",
+    "year": 1980,
+    "imbd_votes": 1258886,
+    "imdb_rating": 8.7,
+    "certificate": "UA",
+    "duration": 124,
+    "genre": "Action,Adventure,Fantasy",
+    "img_link": "https://m.media-amazon.com/images/M/MV5BYmU1NDRjNDgtMzhiMi00NjZmLTg5NGItZDNiZjU5NTU4OTE0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_QL75_UX380_CR0",
+    "cast": [
+      {
+        "id": "nm0000434",
+        "name": "Mark Hamill"
+      },
+      {
+        "id": "nm0000148",
+        "name": "Harrison Ford"
+      },
+      {
+        "id": "nm0000402",
+        "name": "Carrie Fisher"
+      },
+      {
+        "id": "nm0001850",
+        "name": "Billy Dee Williams"
+      },
+      {
+        "id": "nm0000355",
+        "name": "Anthony Daniels"
+      },
+      {
+        "id": "nm0001190",
+        "name": "David Prowse"
+      },
+      {
+        "id": "nm0562679",
+        "name": "Peter Mayhew"
+      },
+      {
+        "id": "nm0048652",
+        "name": "Kenny Baker"
+      },
+      {
+        "id": "nm0000568",
+        "name": "Frank Oz"
+      },
+      {
+        "id": "nm0000027",
+        "name": "Alec Guinness"
+      },
+      {
+        "id": "nm0120116",
+        "name": "Jeremy Bulloch"
+      },
+      {
+        "id": "nm0391197",
+        "name": "John Hollis"
+      },
+      {
+        "id": "nm0701023",
+        "name": "Jack Purvis"
+      },
+      {
+        "id": "nm0916088",
+        "name": "Des Webb"
+      },
+      {
+        "id": "nm0720890",
+        "name": "Clive Revill"
+      },
+      {
+        "id": "nm0171829",
+        "name": "Kenneth Colley"
+      },
+      {
+        "id": "nm0002103",
+        "name": "Julian Glover"
+      },
+      {
+        "id": "nm0790410",
+        "name": "Michael Sheard"
+      }
+    ],
+    "director": {
+      "id": "nm0449984",
+      "name": "Irvin Kershner"
+    },
+    "writers": [
+      {
+        "id": "nm0102824",
+        "name": "Leigh Brackett",
+        "valid": true
+      },
+      {
+        "id": "nm0001410",
+        "name": "Lawrence Kasdan",
+        "valid": true
+      },
+      {
+        "id": "nm0000184",
+        "name": "George Lucas",
+        "valid": true
+      }
+    ],
+    "extra_genres": [
+      "Adventure",
+      "Action",
+      "Fantasy"
+    ],
+    "rating_percentage": 87.0,
+    "popularity_score": 10952.31,
+    "duration_hours": 2.07,
+    "release_date": "1980-01-01",
+    "reception": {
+      "year_average_rating": 8.7,
+      "rating_difference": 0.0,
+      "category": "Average"
+    }
+  },
+  {
+    "rank": 16,
+    "id": "tt0133093",
+    "name": "The Matrix",
+    "year": 1999,
+    "imbd_votes": 1867547,
+    "imdb_rating": 8.7,
+    "certificate": "A",
+    "duration": 136,
+    "genre": "Action,Sci-Fi",
+    "img_link": "https://m.media-amazon.com/images/M/MV5BZTk1MWY3ZWItYmNmOC00NTQzLWFjYWItYzI0NGVhZDJhMWNiXkEyXkFqcGdeQXVyMzExODEzNDA@._V1_QL75_UX380_CR0",
+    "cast": [
+      {
+        "id": "nm0000206",
+        "name": "Keanu Reeves"
+      },
+      {
+        "id": "nm0000401",
+        "name": "Laurence Fishburne"
+      },
+      {
+        "id": "nm0005251",
+        "name": "Carrie-Anne Moss"
+      },
+      {
+        "id": "nm0915989",
+        "name": "Hugo Weaving"
+      },
+      {
+        "id": "nm0287825",
+        "name": "Gloria Foster"
+      },
+      {
+        "id": "nm0001592",
+        "name": "Joe Pantoliano"
+      },
+      {
+        "id": "nm0159059",
+        "name": "Marcus Chong"
+      },
+      {
+        "id": "nm0032810",
+        "name": "Julian Arahanga"
+      },
+      {
+        "id": "nm0233391",
+        "name": "Matt Doran"
+      },
+      {
+        "id": "nm0565883",
+        "name": "Belinda McClory"
+      },
+      {
+        "id": "nm0662562",
+        "name": "Anthony Ray Parker"
+      },
+      {
+        "id": "nm0323822",
+        "name": "Paul Goddard"
+      },
+      {
+        "id": "nm0853079",
+        "name": "Robert Taylor"
+      },
+      {
+        "id": "nm0040058",
+        "name": "David Aston"
+      },
+      {
+        "id": "nm0336802",
+        "name": "Marc Aden Gray"
+      },
+      {
+        "id": "nm0630124",
+        "name": "Ada Nicodemou"
+      },
+      {
+        "id": "nm0330139",
+        "name": "Deni Gordon"
+      },
+      {
+        "id": "nm0936894",
+        "name": "Rowan Witt"
+      }
+    ],
+    "director": {
+      "id": "nm0905154,nm0905152",
+      "name": "Lana Wachowski,Lilly Wachowski"
+    },
+    "writers": [
+      {
+        "id": "nm0905152",
+        "name": "Lilly Wachowski",
+        "valid": true
+      },
+      {
+        "id": "nm0905154",
+        "name": "Lana Wachowski",
+        "valid": true
+      }
+    ],
+    "extra_genres": [
+      "Sci-Fi",
+      "Action"
+    ],
+    "rating_percentage": 87.0,
+    "popularity_score": 16247.66,
+    "duration_hours": 2.27,
+    "release_date": "1999-01-01",
+    "reception": {
+      "year_average_rating": 8.7,
+      "rating_difference": 0.0,
+      "category": "Average"
+    }
+  },
+  {
+    "rank": 17,
+    "id": "tt0099685",
+    "name": "Goodfellas",
+    "year": 1990,
+    "imbd_votes": 1124975,
+    "imdb_rating": 8.7,
+    "certificate": "A",
+    "duration": 145,
+    "genre": "Biography,Crime,Drama",
+    "img_link": "https://m.media-amazon.com/images/M/MV5BNDNkNTJlN2EtYTUwOC00Mzg1LTkwOTUtOGIyNTc3NjA4MjRkXkEyXkFqcGdeQXVyMzExODEzNDA@._V1_QL75_UX380_CR0",
+    "cast": [
+      {
+        "id": "nm0000134",
+        "name": "Robert De Niro"
+      },
+      {
+        "id": "nm0000501",
+        "name": "Ray Liotta"
+      },
+      {
+        "id": "nm0000582",
+        "name": "Joe Pesci"
+      },
+      {
+        "id": "nm0000966",
+        "name": "Lorraine Bracco"
+      },
+      {
+        "id": "nm0000649",
+        "name": "Paul Sorvino"
+      },
+      {
+        "id": "nm0803370",
+        "name": "Frank Sivero"
+      },
+      {
+        "id": "nm0201700",
+        "name": "Tony Darrow"
+      },
+      {
+        "id": "nm0823563",
+        "name": "Mike Starr"
+      },
+      {
+        "id": "nm0898634",
+        "name": "Frank Vincent"
+      },
+      {
+        "id": "nm0522797",
+        "name": "Chuck Low"
+      },
+      {
+        "id": "nm0226746",
+        "name": "Frank DiLeo"
+      },
+      {
+        "id": "nm0950267",
+        "name": "Henny Youngman"
+      },
+      {
+        "id": "nm0557848",
+        "name": "Gina Mastrogiacomo"
+      },
+      {
+        "id": "nm0778734",
+        "name": "Catherine Scorsese"
+      },
+      {
+        "id": "nm0778737",
+        "name": "Charles Scorsese"
+      },
+      {
+        "id": "nm0791877",
+        "name": "Suzanne Shepherd"
+      },
+      {
+        "id": "nm0000529",
+        "name": "Debi Mazar"
+      },
+      {
+        "id": "nm0935247",
+        "name": "Margo Winkler"
+      }
+    ],
+    "director": {
+      "id": "nm0000217",
+      "name": "Martin Scorsese"
+    },
+    "writers": [
+      {
+        "id": "nm0683380",
+        "name": "Nicholas Pileggi",
+        "valid": true
+      },
+      {
+        "id": "nm0000217",
+        "name": "Martin Scorsese",
+        "valid": true
+      }
+    ],
+    "extra_genres": [
+      "Drama",
+      "Crime",
+      "Biography"
+    ],
+    "rating_percentage": 87.0,
+    "popularity_score": 9787.28,
+    "duration_hours": 2.42,
+    "release_date": "1990-01-01",
+    "reception": {
+      "year_average_rating": 8.7,
+      "rating_difference": 0.0,
+      "category": "Average"
+    }
+  },
+  {
+    "rank": 18,
+    "id": "tt0073486",
+    "name": "One Flew Over the Cuckoo's Nest",
+    "year": 1975,
+    "imbd_votes": 987558,
+    "imdb_rating": 8.7,
+    "certificate": "A",
+    "duration": 133,
+    "genre": "Drama",
+    "img_link": "https://m.media-amazon.com/images/M/MV5BZjA0OWVhOTAtYWQxNi00YzNhLWI4ZjYtNjFjZTEyYjJlNDVlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_QL75_UX380_CR0",
+    "cast": [
+      {
+        "id": "nm0000197",
+        "name": "Jack Nicholson"
+      },
+      {
+        "id": "nm0001221",
+        "name": "Louise Fletcher"
+      },
+      {
+        "id": "nm0077720",
+        "name": "Michael Berryman"
+      },
+      {
+        "id": "nm0110480",
+        "name": "Peter Brocco"
+      },
+      {
+        "id": "nm0111954",
+        "name": "Dean R. Brooks"
+      },
+      {
+        "id": "nm0113000",
+        "name": "Alonzo Brown"
+      },
+      {
+        "id": "nm0001079",
+        "name": "Scatman Crothers"
+      },
+      {
+        "id": "nm0191784",
+        "name": "Mwako Cumbuka"
+      },
+      {
+        "id": "nm0000362",
+        "name": "Danny DeVito"
+      },
+      {
+        "id": "nm0240239",
+        "name": "William Duell"
+      },
+      {
+        "id": "nm0253574",
+        "name": "Josip Elic"
+      },
+      {
+        "id": "nm0271753",
+        "name": "Lan Fendors"
+      },
+      {
+        "id": "nm0313554",
+        "name": "Nathan George"
+      },
+      {
+        "id": "nm0448590",
+        "name": "Ken Kenny"
+      },
+      {
+        "id": "nm0483256",
+        "name": "Mel Lambert"
+      },
+      {
+        "id": "nm0489861",
+        "name": "Sydney Lassick"
+      },
+      {
+        "id": "nm0497656",
+        "name": "Kay Lee"
+      },
+      {
+        "id": "nm0000502",
+        "name": "Christopher Lloyd"
+      }
+    ],
+    "director": {
+      "id": "nm0001232",
+      "name": "Milos Forman"
+    },
+    "writers": [
+      {
+        "id": "nm0369142",
+        "name": "Lawrence Hauben",
+        "valid": true
+      },
+      {
+        "id": "nm0325743",
+        "name": "Bo Goldman",
+        "valid": true
+      },
+      {
+        "id": "nm0450181",
+        "name": "Ken Kesey",
+        "valid": true
+      }
+    ],
+    "extra_genres": [
+      "Drama"
+    ],
+    "rating_percentage": 87.0,
+    "popularity_score": 8591.75,
+    "duration_hours": 2.22,
+    "release_date": "1975-01-01",
+    "reception": {
+      "year_average_rating": 8.7,
+      "rating_difference": 0.0,
+      "category": "Average"
+    }
+  },
+  {
+    "rank": 19,
+    "id": "tt0114369",
+    "name": "Se7en",
+    "year": 1995,
+    "imbd_votes": 1596843,
+    "imdb_rating": 8.6,
+    "certificate": "A",
+    "duration": 127,
+    "genre": "Crime,Drama,Mystery",
+    "img_link": "https://m.media-amazon.com/images/M/MV5BMWM3ZjkyMzctNzc4OC00ODU1LTlkMjYtMTZkZjU0ZjU3MTliXkEyXkFqcGdeQXVyMzExODEzNDA@._V1_QL75_UY562_CR4",
+    "cast": [
+      {
+        "id": "nm0000151",
+        "name": "Morgan Freeman"
+      },
+      {
+        "id": "nm0000093",
+        "name": "Brad Pitt"
+      },
+      {
+        "id": "nm0000228",
+        "name": "Kevin Spacey"
+      },
+      {
+        "id": "nm0001825",
+        "name": "Andrew Kevin Walker"
+      },
+      {
+        "id": "nm0669254",
+        "name": "Daniel Zacapa"
+      },
+      {
+        "id": "nm0000569",
+        "name": "Gwyneth Paltrow"
+      },
+      {
+        "id": "nm0144307",
+        "name": "John Cassini"
+      },
+      {
+        "id": "nm0532943",
+        "name": "Bob Mack"
+      },
+      {
+        "id": "nm0188598",
+        "name": "Peter Crombie"
+      },
+      {
+        "id": "nm0146146",
+        "name": "Reg E. Cathey"
+      },
+      {
+        "id": "nm0000388",
+        "name": "R. Lee Ermey"
+      },
+      {
+        "id": "nm0160690",
+        "name": "George Christy"
+      },
+      {
+        "id": "nm0401352",
+        "name": "Endre Hules"
+      },
+      {
+        "id": "nm0416551",
+        "name": "Hawthorne James"
+      },
+      {
+        "id": "nm0203525",
+        "name": "William Davidson"
+      },
+      {
+        "id": "nm0172172",
+        "name": "Bob Collins"
+      },
+      {
+        "id": "nm0367211",
+        "name": "Jimmy Dale Hartsell"
+      },
+      {
+        "id": "nm0745780",
+        "name": "Richard Roundtree"
+      }
+    ],
+    "director": {
+      "id": "nm0000399",
+      "name": "David Fincher"
+    },
+    "writers": [
+      {
+        "id": "nm0001825",
+        "name": "Andrew Kevin Walker",
+        "valid": true
+      }
+    ],
+    "extra_genres": [
+      "Mystery",
+      "Drama",
+      "Crime"
+    ],
+    "rating_percentage": 86.0,
+    "popularity_score": 13732.85,
+    "duration_hours": 2.12,
+    "release_date": "1995-01-01",
+    "reception": {
+      "year_average_rating": 8.55,
+      "rating_difference": 0.05,
+      "category": "Average"
+    }
+  },
+  {
+    "rank": 20,
+    "id": "tt0047478",
+    "name": "Shichinin no samurai",
+    "year": 1954,
+    "imbd_votes": 340526,
+    "imdb_rating": 8.6,
+    "certificate": "U",
+    "duration": 207,
+    "genre": "Action,Drama",
+    "img_link": "https://m.media-amazon.com/images/M/MV5BNWQ3OTM4ZGItMWEwZi00MjI5LWI3YzgtNTYwNWRkNmIzMGI5XkEyXkFqcGdeQXVyNDY2MTk1ODk@._V1_QL75_UY562_CR11",
+    "cast": [
+      {
+        "id": "nm0001536",
+        "name": "Toshir\u00f4 Mifune"
+      },
+      {
+        "id": "nm0793766",
+        "name": "Takashi Shimura"
+      },
+      {
+        "id": "nm0875477",
+        "name": "Keiko Tsushima"
+      },
+      {
+        "id": "nm0793616",
+        "name": "Yukiko Shimazaki"
+      },
+      {
+        "id": "nm0297869",
+        "name": "Kamatari Fujiwara"
+      },
+      {
+        "id": "nm0441961",
+        "name": "Daisuke Kat\u00f4"
+      },
+      {
+        "id": "nm0454087",
+        "name": "Isao Kimura"
+      },
+      {
+        "id": "nm0156928",
+        "name": "Minoru Chiaki"
+      },
+      {
+        "id": "nm0594348",
+        "name": "Seiji Miyaguchi"
+      },
+      {
+        "id": "nm0467566",
+        "name": "Yoshio Kosugi"
+      },
+      {
+        "id": "nm0383091",
+        "name": "Bokuzen Hidari"
+      },
+      {
+        "id": "nm0408343",
+        "name": "Yoshio Inaba"
+      },
+      {
+        "id": "nm0875237",
+        "name": "Yoshio Tsuchiya"
+      },
+      {
+        "id": "nm0462679",
+        "name": "Kokuten K\u00f4d\u00f4"
+      },
+      {
+        "id": "nm0867391",
+        "name": "Eijir\u00f4 T\u00f4no"
+      },
+      {
+        "id": "nm0879918",
+        "name": "Kichijir\u00f4 Ueda"
+      },
+      {
+        "id": "nm0851071",
+        "name": "Jun Tatara"
+      },
+      {
+        "id": "nm1226419",
+        "name": "Atsushi Watanabe"
+      }
+    ],
+    "director": {
+      "id": "nm0000041",
+      "name": "Akira Kurosawa"
+    },
+    "writers": [
+      {
+        "id": "nm0000041",
+        "name": "Akira Kurosawa",
+        "valid": true
+      },
+      {
+        "id": "nm0368074",
+        "name": "Shinobu Hashimoto",
+        "valid": true
+      },
+      {
+        "id": "nm0644823",
+        "name": "Hideo Oguni",
+        "valid": true
+      }
+    ],
+    "extra_genres": [
+      "Drama",
+      "Action"
+    ],
+    "rating_percentage": 86.0,
+    "popularity_score": 2928.52,
+    "duration_hours": 3.45,
+    "release_date": "1954-01-01",
+    "reception": {
+      "year_average_rating": 8.6,
+      "rating_difference": 0.0,
+      "category": "Average"
+    }
+  },
+  {
+    "rank": 21,
+    "id": "tt0038650",
+    "name": "It's a Wonderful Life",
+    "year": 1946,
+    "imbd_votes": 446922,
+    "imdb_rating": 8.6,
+    "certificate": "PG",
+    "duration": 130,
+    "genre": "Drama,Family,Fantasy",
+    "img_link": "https://m.media-amazon.com/images/M/MV5BZjc4NDZhZWMtNGEzYS00ZWU2LThlM2ItNTA0YzQ0OTExMTE2XkEyXkFqcGdeQXVyNjUwMzI2NzU@._V1_QL75_UY562_CR3",
+    "cast": [
+      {
+        "id": "nm0000071",
+        "name": "James Stewart"
+      },
+      {
+        "id": "nm0001656",
+        "name": "Donna Reed"
+      },
+      {
+        "id": "nm0000859",
+        "name": "Lionel Barrymore"
+      },
+      {
+        "id": "nm0593775",
+        "name": "Thomas Mitchell"
+      },
+      {
+        "id": "nm0871287",
+        "name": "Henry Travers"
+      },
+      {
+        "id": "nm0094135",
+        "name": "Beulah Bondi"
+      },
+      {
+        "id": "nm0269709",
+        "name": "Frank Faylen"
+      },
+      {
+        "id": "nm0000955",
+        "name": "Ward Bond"
+      },
+      {
+        "id": "nm0002108",
+        "name": "Gloria Grahame"
+      },
+      {
+        "id": "nm0912478",
+        "name": "H.B. Warner"
+      },
+      {
+        "id": "nm0007214",
+        "name": "Frank Albertson"
+      },
+      {
+        "id": "nm0439851",
+        "name": "Todd Karns"
+      },
+      {
+        "id": "nm0385594",
+        "name": "Samuel S. Hinds"
+      },
+      {
+        "id": "nm0871695",
+        "name": "Mary Treen"
+      },
+      {
+        "id": "nm0666634",
+        "name": "Virginia Patton"
+      },
+      {
+        "id": "nm0930239",
+        "name": "Charles Williams"
+      },
+      {
+        "id": "nm0250352",
+        "name": "Sarah Edwards"
+      },
+      {
+        "id": "nm0249602",
+        "name": "William Edmunds"
+      }
+    ],
+    "director": {
+      "id": "nm0001008",
+      "name": "Frank Capra"
+    },
+    "writers": [
+      {
+        "id": "nm0329304",
+        "name": "Frances Goodrich",
+        "valid": true
+      },
+      {
+        "id": "nm0352443",
+        "name": "Albert Hackett",
+        "valid": true
+      },
+      {
+        "id": "nm0001008",
+        "name": "Frank Capra",
+        "valid": true
+      }
+    ],
+    "extra_genres": [
+      "Drama",
+      "Family",
+      "Fantasy"
+    ],
+    "rating_percentage": 86.0,
+    "popularity_score": 3843.53,
+    "duration_hours": 2.17,
+    "release_date": "1946-01-01",
+    "reception": {
+      "year_average_rating": 8.6,
+      "rating_difference": 0.0,
+      "category": "Average"
+    }
+  },
+  {
+    "rank": 22,
+    "id": "tt0102926",
+    "name": "The Silence of the Lambs",
+    "year": 1991,
+    "imbd_votes": 1392578,
+    "imdb_rating": 8.6,
+    "certificate": "A",
+    "duration": 118,
+    "genre": "Crime,Drama,Thriller",
+    "img_link": "https://m.media-amazon.com/images/M/MV5BNjNhZTk0ZmEtNjJhMi00YzFlLWE1MmEtYzM1M2ZmMGMwMTU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL75_UY562_CR1",
+    "cast": [
+      {
+        "id": "nm0000149",
+        "name": "Jodie Foster"
+      },
+      {
+        "id": "nm0000164",
+        "name": "Anthony Hopkins"
+      },
+      {
+        "id": "nm0095029",
+        "name": "Lawrence A. Bonney"
+      },
+      {
+        "id": "nm0501435",
+        "name": "Kasi Lemmons"
+      },
+      {
+        "id": "nm0942145",
+        "name": "Lawrence T. Wrentz"
+      },
+      {
+        "id": "nm0001277",
+        "name": "Scott Glenn"
+      },
+      {
+        "id": "nm0372217",
+        "name": "Anthony Heald"
+      },
+      {
+        "id": "nm0265670",
+        "name": "Frankie Faison"
+      },
+      {
+        "id": "nm0110667",
+        "name": "Don Brockett"
+      },
+      {
+        "id": "nm0780557",
+        "name": "Frank Seals Jr."
+      },
+      {
+        "id": "nm0748785",
+        "name": "Stuart Rudin"
+      },
+      {
+        "id": "nm0804705",
+        "name": "Maria Skorobogatov"
+      },
+      {
+        "id": "nm1508029",
+        "name": "Jeffrie Lane"
+      },
+      {
+        "id": "nm0502229",
+        "name": "Leib Lensky"
+      },
+      {
+        "id": "nm0777230",
+        "name": "George 'Red' Schwartz"
+      },
+      {
+        "id": "nm0733940",
+        "name": "Jim Roche"
+      },
+      {
+        "id": "nm0807548",
+        "name": "Brooke Smith"
+      },
+      {
+        "id": "nm0505971",
+        "name": "Ted Levine"
+      }
+    ],
+    "director": {
+      "id": "nm0001129",
+      "name": "Jonathan Demme"
+    },
+    "writers": [
+      {
+        "id": "nm0365383",
+        "name": "Thomas Harris",
+        "valid": true
+      },
+      {
+        "id": "nm0848217",
+        "name": "Ted Tally",
+        "valid": true
+      }
+    ],
+    "extra_genres": [
+      "Thriller",
+      "Drama",
+      "Crime"
+    ],
+    "rating_percentage": 86.0,
+    "popularity_score": 11976.17,
+    "duration_hours": 1.97,
+    "release_date": "1991-01-01",
+    "reception": {
+      "year_average_rating": 8.6,
+      "rating_difference": 0.0,
+      "category": "Average"
+    }
+  },
+  {
+    "rank": 23,
+    "id": "tt0317248",
+    "name": "Cidade de Deus",
+    "year": 2002,
+    "imbd_votes": 743932,
+    "imdb_rating": 8.6,
+    "certificate": "A",
+    "duration": 130,
+    "genre": "Crime,Drama",
+    "img_link": "https://m.media-amazon.com/images/M/MV5BOTMwYjc5ZmItYTFjZC00ZGQ3LTlkNTMtMjZiNTZlMWQzNzI5XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_QL75_UX380_CR0",
+    "cast": [
+      {
+        "id": "nm1179105",
+        "name": "Alexandre Rodrigues"
+      },
+      {
+        "id": "nm1129884",
+        "name": "Leandro Firmino"
+      },
+      {
+        "id": "nm0618690",
+        "name": "Matheus Nachtergaele"
+      },
+      {
+        "id": "nm1249574",
+        "name": "Phellipe Haagensen"
+      },
+      {
+        "id": "nm1179683",
+        "name": "Douglas Silva"
+      },
+      {
+        "id": "nm1178560",
+        "name": "Jonathan Haagensen"
+      },
+      {
+        "id": "nm1179580",
+        "name": "Seu Jorge"
+      },
+      {
+        "id": "nm1403603",
+        "name": "Jefechander Suplino"
+      },
+      {
+        "id": "nm0103797",
+        "name": "Alice Braga"
+      },
+      {
+        "id": "nm1248280",
+        "name": "Emerson Gomes"
+      },
+      {
+        "id": "nm0646663",
+        "name": "Edson Oliveira"
+      },
+      {
+        "id": "nm1249471",
+        "name": "Michel Gomes"
+      },
+      {
+        "id": "nm1368917",
+        "name": "Roberta Rodrigues"
+      },
+      {
+        "id": "nm1404223",
+        "name": "Luis Ot\u00e1vio"
+      },
+      {
+        "id": "nm1323565",
+        "name": "Kiko Marques"
+      },
+      {
+        "id": "nm1402033",
+        "name": "Gustavo Engr\u00e1cia"
+      },
+      {
+        "id": "nm1130610",
+        "name": "Darlan Cunha"
+      },
+      {
+        "id": "nm1248992",
+        "name": "Robson Rocha"
+      }
+    ],
+    "director": {
+      "id": "nm0576987,nm0526199",
+      "name": "Fernando Meirelles,K\u00e1tia Lund"
+    },
+    "writers": [
+      {
+        "id": "nm0513130",
+        "name": "Paulo Lins",
+        "valid": true
+      },
+      {
+        "id": "nm1130251",
+        "name": "Br\u00e1ulio Mantovani",
+        "valid": true
+      }
+    ],
+    "extra_genres": [
+      "Drama",
+      "Crime"
+    ],
+    "rating_percentage": 86.0,
+    "popularity_score": 6397.82,
+    "duration_hours": 2.17,
+    "release_date": "2002-01-01",
+    "reception": {
+      "year_average_rating": 8.63,
+      "rating_difference": -0.03,
+      "category": "Average"
+    }
+  },
+  {
+    "rank": 24,
+    "id": "tt0120815",
+    "name": "Saving Private Ryan",
+    "year": 1998,
+    "imbd_votes": 1354311,
+    "imdb_rating": 8.6,
+    "certificate": "A",
+    "duration": 169,
+    "genre": "Drama,War",
+    "img_link": "https://m.media-amazon.com/images/M/MV5BZjhkMDM4MWItZTVjOC00ZDRhLThmYTAtM2I5NzBmNmNlMzI1XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_QL75_UY562_CR1",
+    "cast": [
+      {
+        "id": "nm0000158",
+        "name": "Tom Hanks"
+      },
+      {
+        "id": "nm0000354",
+        "name": "Matt Damon"
+      },
+      {
+        "id": "nm0001744",
+        "name": "Tom Sizemore"
+      },
+      {
+        "id": "nm0122653",
+        "name": "Edward Burns"
+      },
+      {
+        "id": "nm0001608",
+        "name": "Barry Pepper"
+      },
+      {
+        "id": "nm0004965",
+        "name": "Adam Goldberg"
+      },
+      {
+        "id": "nm0004874",
+        "name": "Vin Diesel"
+      },
+      {
+        "id": "nm0000610",
+        "name": "Giovanni Ribisi"
+      },
+      {
+        "id": "nm0001111",
+        "name": "Jeremy Davies"
+      },
+      {
+        "id": "nm0001101",
+        "name": "Ted Danson"
+      },
+      {
+        "id": "nm0316079",
+        "name": "Paul Giamatti"
+      },
+      {
+        "id": "nm0001199",
+        "name": "Dennis Farina"
+      },
+      {
+        "id": "nm0821152",
+        "name": "Joerg Stadler"
+      },
+      {
+        "id": "nm0242882",
+        "name": "Max Martini"
+      },
+      {
+        "id": "nm0116465",
+        "name": "Dylan Bruno"
+      },
+      {
+        "id": "nm0148738",
+        "name": "Daniel Cerqueira"
+      },
+      {
+        "id": "nm0330983",
+        "name": "Demetri Goritsas"
+      },
+      {
+        "id": "nm0692139",
+        "name": "Ian Porter"
+      }
+    ],
+    "director": {
+      "id": "nm0000229",
+      "name": "Steven Spielberg"
+    },
+    "writers": [
+      {
+        "id": "nm0734441",
+        "name": "Robert Rodat",
+        "valid": true
+      }
+    ],
+    "extra_genres": [
+      "Drama",
+      "War"
+    ],
+    "rating_percentage": 86.0,
+    "popularity_score": 11647.07,
+    "duration_hours": 2.82,
+    "release_date": "1998-01-01",
+    "reception": {
+      "year_average_rating": 8.55,
+      "rating_difference": 0.05,
+      "category": "Average"
+    }
+  },
+  {
+    "rank": 25,
+    "id": "tt0118799",
+    "name": "La vita \u00e8 bella",
+    "year": 1997,
+    "imbd_votes": 679573,
+    "imdb_rating": 8.6,
+    "certificate": "U",
+    "duration": 116,
+    "genre": "Comedy,Drama,Romance",
+    "img_link": "https://m.media-amazon.com/images/M/MV5BMzliYTRhOTYtZjFiYi00MjI0LTkxY2EtMTNjNjMwM2UwNTdlXkEyXkFqcGdeQXVyNDI3NjU1NzQ@._V1_QL75_UX380_CR0",
+    "cast": [
+      {
+        "id": "nm0000905",
+        "name": "Roberto Benigni"
+      },
+      {
+        "id": "nm0000971",
+        "name": "Nicoletta Braschi"
+      },
+      {
+        "id": "nm0134493",
+        "name": "Giorgio Cantarini"
+      },
+      {
+        "id": "nm0243842",
+        "name": "Giustino Durano"
+      },
+      {
+        "id": "nm0082979",
+        "name": "Sergio Bini Bustric"
+      },
+      {
+        "id": "nm0004650",
+        "name": "Marisa Paredes"
+      },
+      {
+        "id": "nm0001976",
+        "name": "Horst Buchholz"
+      },
+      {
+        "id": "nm0019145",
+        "name": "Lidia Alfonsi"
+      },
+      {
+        "id": "nm0518057",
+        "name": "Giuliana Lojodice"
+      },
+      {
+        "id": "nm0284997",
+        "name": "Amerigo Fontani"
+      },
+      {
+        "id": "nm0211599",
+        "name": "Pietro De Silva"
+      },
+      {
+        "id": "nm0350147",
+        "name": "Francesco Guzzo"
+      },
+      {
+        "id": "nm0495476",
+        "name": "Raffaella Lebboroni"
+      },
+      {
+        "id": "nm0019142",
+        "name": "Claudio Alfonsi"
+      },
+      {
+        "id": "nm0056391",
+        "name": "Gil Baroni"
+      },
+      {
+        "id": "nm0080641",
+        "name": "Massimo Bianchi"
+      },
+      {
+        "id": "nm0092104",
+        "name": "J\u00fcrgen Bohn"
+      },
+      {
+        "id": "nm0120717",
+        "name": "Verena Buratti"
+      }
+    ],
+    "director": {
+      "id": "nm0000905",
+      "name": "Roberto Benigni"
+    },
+    "writers": [
+      {
+        "id": "nm0148437",
+        "name": "Vincenzo Cerami",
+        "valid": true
+      },
+      {
+        "id": "nm0000905",
+        "name": "Roberto Benigni",
+        "valid": true
+      }
+    ],
+    "extra_genres": [
+      "Drama",
+      "Comedy",
+      "Romance"
+    ],
+    "rating_percentage": 86.0,
+    "popularity_score": 5844.33,
+    "duration_hours": 1.93,
+    "release_date": "1997-01-01",
+    "reception": {
+      "year_average_rating": 8.6,
+      "rating_difference": 0.0,
+      "category": "Average"
+    }
+  },
+  {
+    "rank": 26,
+    "id": "tt0120689",
+    "name": "The Green Mile",
+    "year": 1999,
+    "imbd_votes": 1264587,
+    "imdb_rating": 8.6,
+    "certificate": "UA",
+    "duration": 189,
+    "genre": "Crime,Drama,Fantasy",
+    "img_link": "https://m.media-amazon.com/images/M/MV5BY2VjY2I5ZTktMTFhOC00M2ViLWI4YTAtMjkzOTIwY2ZlZWVkXkEyXkFqcGdeQXVyNTc3MjUzNTI@._V1_QL75_UY562_CR7",
+    "cast": [
+      {
+        "id": "nm0000158",
+        "name": "Tom Hanks"
+      },
+      {
+        "id": "nm0003817",
+        "name": "Michael Clarke Duncan"
+      },
+      {
+        "id": "nm0001556",
+        "name": "David Morse"
+      },
+      {
+        "id": "nm0001372",
+        "name": "Bonnie Hunt"
+      },
+      {
+        "id": "nm0000342",
+        "name": "James Cromwell"
+      },
+      {
+        "id": "nm0005052",
+        "name": "Michael Jeter"
+      },
+      {
+        "id": "nm0001295",
+        "name": "Graham Greene"
+      },
+      {
+        "id": "nm0006535",
+        "name": "Doug Hutchison"
+      },
+      {
+        "id": "nm0005377",
+        "name": "Sam Rockwell"
+      },
+      {
+        "id": "nm0001608",
+        "name": "Barry Pepper"
+      },
+      {
+        "id": "nm0218810",
+        "name": "Jeffrey DeMunn"
+      },
+      {
+        "id": "nm0165101",
+        "name": "Patricia Clarkson"
+      },
+      {
+        "id": "nm0001765",
+        "name": "Harry Dean Stanton"
+      },
+      {
+        "id": "nm0339428",
+        "name": "Dabbs Greer"
+      },
+      {
+        "id": "nm0107573",
+        "name": "Eve Brent"
+      },
+      {
+        "id": "nm0006669",
+        "name": "William Sadler"
+      },
+      {
+        "id": "nm0587183",
+        "name": "Mack Miles"
+      },
+      {
+        "id": "nm0850847",
+        "name": "Rai Tasco"
+      }
+    ],
+    "director": {
+      "id": "nm0001104",
+      "name": "Frank Darabont"
+    },
+    "writers": [
+      {
+        "id": "nm0000175",
+        "name": "Stephen King",
+        "valid": true
+      },
+      {
+        "id": "nm0001104",
+        "name": "Frank Darabont",
+        "valid": true
+      }
+    ],
+    "extra_genres": [
+      "Drama",
+      "Crime",
+      "Fantasy"
+    ],
+    "rating_percentage": 86.0,
+    "popularity_score": 10875.45,
+    "duration_hours": 3.15,
+    "release_date": "1999-01-01",
+    "reception": {
+      "year_average_rating": 8.7,
+      "rating_difference": -0.1,
+      "category": "Average"
+    }
+  },
+  {
+    "rank": 27,
+    "id": "tt0816692",
+    "name": "Interstellar",
+    "year": 2014,
+    "imbd_votes": 1743555,
+    "imdb_rating": 8.6,
+    "certificate": "UA",
+    "duration": 169,
+    "genre": "Adventure,Drama,Sci-Fi",
+    "img_link": "https://m.media-amazon.com/images/M/MV5BMjgxZDI2MjktYjRmMS00ZTU0LWIxMzQtMDkzNjE2NWFhNDk0XkEyXkFqcGdeQXVyMzExODEzNDA@._V1_QL75_UY562_CR6",
+    "cast": [
+      {
+        "id": "nm0000190",
+        "name": "Matthew McConaughey"
+      },
+      {
+        "id": "nm0004266",
+        "name": "Anne Hathaway"
+      },
+      {
+        "id": "nm1567113",
+        "name": "Jessica Chastain"
+      },
+      {
+        "id": "nm3237775",
+        "name": "Mackenzie Foy"
+      },
+      {
+        "id": "nm0000995",
+        "name": "Ellen Burstyn"
+      },
+      {
+        "id": "nm0001475",
+        "name": "John Lithgow"
+      },
+      {
+        "id": "nm3154303",
+        "name": "Timoth\u00e9e Chalamet"
+      },
+      {
+        "id": "nm0654648",
+        "name": "David Oyelowo"
+      },
+      {
+        "id": "nm2180792",
+        "name": "Collette Wolfe"
+      },
+      {
+        "id": "nm0565133",
+        "name": "Francis X. McCarthy"
+      },
+      {
+        "id": "nm0410347",
+        "name": "Bill Irwin"
+      },
+      {
+        "id": "nm0095960",
+        "name": "Andrew Borba"
+      },
+      {
+        "id": "nm0004747",
+        "name": "Wes Bentley"
+      },
+      {
+        "id": "nm0001137",
+        "name": "William Devane"
+      },
+      {
+        "id": "nm0000323",
+        "name": "Michael Caine"
+      },
+      {
+        "id": "nm1408543",
+        "name": "David Gyasi"
+      },
+      {
+        "id": "nm1577637",
+        "name": "Josh Stewart"
+      },
+      {
+        "id": "nm0000729",
+        "name": "Casey Affleck"
+      }
+    ],
+    "director": {
+      "id": "nm0634240",
+      "name": "Christopher Nolan"
+    },
+    "writers": [
+      {
+        "id": "nm0634300",
+        "name": "Jonathan Nolan",
+        "valid": true
+      },
+      {
+        "id": "nm0634240",
+        "name": "Christopher Nolan",
+        "valid": true
+      }
+    ],
+    "extra_genres": [
+      "Sci-Fi",
+      "Drama",
+      "Adventure"
+    ],
+    "rating_percentage": 86.0,
+    "popularity_score": 14994.57,
+    "duration_hours": 2.82,
+    "release_date": "2014-01-01",
+    "reception": {
+      "year_average_rating": 8.55,
+      "rating_difference": 0.05,
+      "category": "Average"
+    }
+  },
+  {
+    "rank": 28,
+    "id": "tt0076759",
+    "name": "Star Wars",
+    "year": 1977,
+    "imbd_votes": 1330965,
+    "imdb_rating": 8.6,
+    "certificate": "U",
+    "duration": 121,
+    "genre": "Action,Adventure,Fantasy",
+    "img_link": "https://m.media-amazon.com/images/M/MV5BOTA5NjhiOTAtZWM0ZC00MWNhLThiMzEtZDFkOTk2OTU1ZDJkXkEyXkFqcGdeQXVyMTA4NDI1NTQx._V1_QL75_UX380_CR0",
+    "cast": [
+      {
+        "id": "nm0000434",
+        "name": "Mark Hamill"
+      },
+      {
+        "id": "nm0000148",
+        "name": "Harrison Ford"
+      },
+      {
+        "id": "nm0000402",
+        "name": "Carrie Fisher"
+      },
+      {
+        "id": "nm0000027",
+        "name": "Alec Guinness"
+      },
+      {
+        "id": "nm0001088",
+        "name": "Peter Cushing"
+      },
+      {
+        "id": "nm0000355",
+        "name": "Anthony Daniels"
+      },
+      {
+        "id": "nm0048652",
+        "name": "Kenny Baker"
+      },
+      {
+        "id": "nm0562679",
+        "name": "Peter Mayhew"
+      },
+      {
+        "id": "nm0001190",
+        "name": "David Prowse"
+      },
+      {
+        "id": "nm0114436",
+        "name": "Phil Brown"
+      },
+      {
+        "id": "nm0292235",
+        "name": "Shelagh Fraser"
+      },
+      {
+        "id": "nm0701023",
+        "name": "Jack Purvis"
+      },
+      {
+        "id": "nm0567018",
+        "name": "Alex McCrindle"
+      },
+      {
+        "id": "nm0125952",
+        "name": "Eddie Byrne"
+      },
+      {
+        "id": "nm0377120",
+        "name": "Drewe Henley"
+      },
+      {
+        "id": "nm0493200",
+        "name": "Denis Lawson"
+      },
+      {
+        "id": "nm0353796",
+        "name": "Garrick Hagon"
+      },
+      {
+        "id": "nm0458161",
+        "name": "Jack Klaff"
+      }
+    ],
+    "director": {
+      "id": "nm0000184",
+      "name": "George Lucas"
+    },
+    "writers": [
+      {
+        "id": "nm0000184",
+        "name": "George Lucas",
+        "valid": true
+      }
+    ],
+    "extra_genres": [
+      "Adventure",
+      "Action",
+      "Fantasy"
+    ],
+    "rating_percentage": 86.0,
+    "popularity_score": 11446.3,
+    "duration_hours": 2.02,
+    "release_date": "1977-01-01",
+    "reception": {
+      "year_average_rating": 8.6,
+      "rating_difference": 0.0,
+      "category": "Average"
+    }
+  },
+  {
+    "rank": 29,
+    "id": "tt0103064",
+    "name": "Terminator 2: Judgment Day",
+    "year": 1991,
+    "imbd_votes": 1073286,
+    "imdb_rating": 8.6,
+    "certificate": "A",
+    "duration": 137,
+    "genre": "Action,Sci-Fi",
+    "img_link": "https://m.media-amazon.com/images/M/MV5BMGU2NzRmZjUtOGUxYS00ZjdjLWEwZWItY2NlM2JhNjkxNTFmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL75_UX380_CR0",
+    "cast": [
+      {
+        "id": "nm0000216",
+        "name": "Arnold Schwarzenegger"
+      },
+      {
+        "id": "nm0000157",
+        "name": "Linda Hamilton"
+      },
+      {
+        "id": "nm0000411",
+        "name": "Edward Furlong"
+      },
+      {
+        "id": "nm0001598",
+        "name": "Robert Patrick"
+      },
+      {
+        "id": "nm0091286",
+        "name": "Earl Boen"
+      },
+      {
+        "id": "nm0608012",
+        "name": "Joe Morton"
+      },
+      {
+        "id": "nm0580924",
+        "name": "S. Epatha Merkerson"
+      },
+      {
+        "id": "nm0346003",
+        "name": "Castulo Guerra"
+      },
+      {
+        "id": "nm0177528",
+        "name": "Danny Cooksey"
+      },
+      {
+        "id": "nm0001280",
+        "name": "Jenette Goldstein"
+      },
+      {
+        "id": "nm0075359",
+        "name": "Xander Berkeley"
+      },
+      {
+        "id": "nm0357696",
+        "name": "Leslie Hamilton Gearren"
+      },
+      {
+        "id": "nm0316480",
+        "name": "Ken Gibbel"
+      },
+      {
+        "id": "nm0935297",
+        "name": "Robert Winley"
+      },
+      {
+        "id": "nm0775623",
+        "name": "Peter Schrum"
+      },
+      {
+        "id": "nm0928630",
+        "name": "Shane Wilder"
+      },
+      {
+        "id": "nm0250218",
+        "name": "Michael Edwards"
+      },
+      {
+        "id": "nm0522027",
+        "name": "Jared Lounsbery"
+      }
+    ],
+    "director": {
+      "id": "nm0000116",
+      "name": "James Cameron"
+    },
+    "writers": [
+      {
+        "id": "nm0000116",
+        "name": "James Cameron",
+        "valid": true
+      },
+      {
+        "id": "nm0936537",
+        "name": "William Wisher",
+        "valid": true
+      }
+    ],
+    "extra_genres": [
+      "Sci-Fi",
+      "Action"
+    ],
+    "rating_percentage": 86.0,
+    "popularity_score": 9230.26,
+    "duration_hours": 2.28,
+    "release_date": "1991-01-01",
+    "reception": {
+      "year_average_rating": 8.6,
+      "rating_difference": 0.0,
+      "category": "Average"
+    }
+  },
+  {
+    "rank": 30,
+    "id": "tt0088763",
+    "name": "Back to the Future",
+    "year": 1985,
+    "imbd_votes": 1167865,
+    "imdb_rating": 8.5,
+    "certificate": "U",
+    "duration": 116,
+    "genre": "Adventure,Comedy,Sci-Fi",
+    "img_link": "https://m.media-amazon.com/images/M/MV5BZmU0M2Y1OGUtZjIxNi00ZjBkLTg1MjgtOWIyNThiZWIwYjRiXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_QL75_UX380_CR0",
+    "cast": [
+      {
+        "id": "nm0000150",
+        "name": "Michael J. Fox"
+      },
+      {
+        "id": "nm0000502",
+        "name": "Christopher Lloyd"
+      },
+      {
+        "id": "nm0000670",
+        "name": "Lea Thompson"
+      },
+      {
+        "id": "nm0000417",
+        "name": "Crispin Glover"
+      },
+      {
+        "id": "nm0001855",
+        "name": "Tom Wilson"
+      },
+      {
+        "id": "nm0920148",
+        "name": "Claudia Wells"
+      },
+      {
+        "id": "nm0566013",
+        "name": "Marc McClure"
+      },
+      {
+        "id": "nm0818274",
+        "name": "Wendie Jo Sperber"
+      },
+      {
+        "id": "nm0225191",
+        "name": "George DiCenzo"
+      },
+      {
+        "id": "nm0564589",
+        "name": "Frances Lee McCain"
+      },
+      {
+        "id": "nm0866055",
+        "name": "James Tolkan"
+      },
+      {
+        "id": "nm0169454",
+        "name": "J.J. Cohen"
+      },
+      {
+        "id": "nm0797150",
+        "name": "Casey Siemaszko"
+      },
+      {
+        "id": "nm0000708",
+        "name": "Billy Zane"
+      },
+      {
+        "id": "nm0914023",
+        "name": "Harry Waters Jr."
+      },
+      {
+        "id": "nm0298412",
+        "name": "Donald Fullilove"
+      },
+      {
+        "id": "nm0293483",
+        "name": "Lisa Freeman"
+      },
+      {
+        "id": "nm0442022",
+        "name": "Cristen Kauffman"
+      }
+    ],
+    "director": {
+      "id": "nm0000709",
+      "name": "Robert Zemeckis"
+    },
+    "writers": [
+      {
+        "id": "nm0000709",
+        "name": "Robert Zemeckis",
+        "valid": true
+      },
+      {
+        "id": "nm0301826",
+        "name": "Bob Gale",
+        "valid": true
+      }
+    ],
+    "extra_genres": [
+      "Sci-Fi",
+      "Adventure",
+      "Comedy"
+    ],
+    "rating_percentage": 85.0,
+    "popularity_score": 9926.85,
+    "duration_hours": 1.93,
+    "release_date": "1985-01-01",
+    "reception": {
+      "year_average_rating": 8.5,
+      "rating_difference": 0.0,
+      "category": "Average"
+    }
+  },
+  {
+    "rank": 31,
+    "id": "tt0245429",
+    "name": "Sen to Chihiro no kamikakushi",
+    "year": 2001,
+    "imbd_votes": 737358,
+    "imdb_rating": 8.6,
+    "certificate": "U",
+    "duration": 125,
+    "genre": "Animation,Adventure,Family",
+    "img_link": "https://m.media-amazon.com/images/M/MV5BMjlmZmI5MDctNDE2YS00YWE0LWE5ZWItZDBhYWQ0NTcxNWRhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_QL75_UX380_CR0",
+    "cast": [
+      {
+        "id": "nm0153738",
+        "name": "Daveigh Chase"
+      },
+      {
+        "id": "nm0687189",
+        "name": "Suzanne Pleshette"
+      },
+      {
+        "id": "nm0997115",
+        "name": "Miyu Irino"
+      },
+      {
+        "id": "nm0383708",
+        "name": "Rumi Hiiragi"
+      },
+      {
+        "id": "nm0622412",
+        "name": "Mari Natsuki"
+      },
+      {
+        "id": "nm0619822",
+        "name": "Takashi Nait\u00f4"
+      },
+      {
+        "id": "nm0768005",
+        "name": "Yasuko Sawaguchi"
+      },
+      {
+        "id": "nm0309107",
+        "name": "Tatsuya Gash\u00fbin"
+      },
+      {
+        "id": "nm1126340",
+        "name": "Ry\u00fbnosuke Kamiki"
+      },
+      {
+        "id": "nm1112144",
+        "name": "Yumi Tamai"
+      },
+      {
+        "id": "nm1126978",
+        "name": "Y\u00f4 \u00d4izumi"
+      },
+      {
+        "id": "nm0370632",
+        "name": "Koba Hayashi"
+      },
+      {
+        "id": "nm0436639",
+        "name": "Tsunehiko Kamij\u00f4"
+      },
+      {
+        "id": "nm0648777",
+        "name": "Takehiko Ono"
+      },
+      {
+        "id": "nm0837420",
+        "name": "Bunta Sugawara"
+      },
+      {
+        "id": "nm6946829",
+        "name": "Shigeru Wakita"
+      },
+      {
+        "id": "nm1312191",
+        "name": "Shir\u00f4 Sait\u00f4"
+      },
+      {
+        "id": "nm1829293",
+        "name": "Michiko Yamamoto"
+      }
+    ],
+    "director": {
+      "id": "nm0594503",
+      "name": "Hayao Miyazaki"
+    },
+    "writers": [
+      {
+        "id": "nm0594503",
+        "name": "Hayao Miyazaki",
+        "valid": true
+      }
+    ],
+    "extra_genres": [
+      "Adventure",
+      "Family",
+      "Animation"
+    ],
+    "rating_percentage": 86.0,
+    "popularity_score": 6341.28,
+    "duration_hours": 2.08,
+    "release_date": "2001-01-01",
+    "reception": {
+      "year_average_rating": 8.7,
+      "rating_difference": -0.1,
+      "category": "Average"
+    }
+  },
+  {
+    "rank": 32,
+    "id": "tt0054215",
+    "name": "Psycho",
+    "year": 1960,
+    "imbd_votes": 656425,
+    "imdb_rating": 8.5,
+    "certificate": "A",
+    "duration": 109,
+    "genre": "Horror,Mystery,Thriller",
+    "img_link": "https://m.media-amazon.com/images/M/MV5BNTQwNDM1YzItNDAxZC00NWY2LTk0M2UtNDIwNWI5OGUyNWUxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_QL75_UX380_CR0",
+    "cast": [
+      {
+        "id": "nm0000578",
+        "name": "Anthony Perkins"
+      },
+      {
+        "id": "nm0001463",
+        "name": "Janet Leigh"
+      },
+      {
+        "id": "nm0587256",
+        "name": "Vera Miles"
+      },
+      {
+        "id": "nm0001260",
+        "name": "John Gavin"
+      },
+      {
+        "id": "nm0000842",
+        "name": "Martin Balsam"
+      },
+      {
+        "id": "nm0570615",
+        "name": "John McIntire"
+      },
+      {
+        "id": "nm0643000",
+        "name": "Simon Oakland"
+      },
+      {
+        "id": "nm0007214",
+        "name": "Frank Albertson"
+      },
+      {
+        "id": "nm0386877",
+        "name": "Patricia Hitchcock"
+      },
+      {
+        "id": "nm0853299",
+        "name": "Vaughn Taylor"
+      },
+      {
+        "id": "nm0878354",
+        "name": "Lurene Tuttle"
+      },
+      {
+        "id": "nm0026930",
+        "name": "John Anderson"
+      },
+      {
+        "id": "nm0590123",
+        "name": "Mort Mills"
+      },
+      {
+        "id": "nm0020513",
+        "name": "Fletcher Allen"
+      },
+      {
+        "id": "nm0045839",
+        "name": "Walter Bacon"
+      },
+      {
+        "id": "nm2146004",
+        "name": "Prudence Beers"
+      },
+      {
+        "id": "nm0141275",
+        "name": "Kit Carson"
+      },
+      {
+        "id": "nm0211402",
+        "name": "Francis De Sales"
+      }
+    ],
+    "director": {
+      "id": "nm0000033",
+      "name": "Alfred Hitchcock"
+    },
+    "writers": [
+      {
+        "id": "nm0825010",
+        "name": "Joseph Stefano",
+        "valid": true
+      },
+      {
+        "id": "nm0088645",
+        "name": "Robert Bloch",
+        "valid": true
+      }
+    ],
+    "extra_genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "rating_percentage": 85.0,
+    "popularity_score": 5579.61,
+    "duration_hours": 1.82,
+    "release_date": "1960-01-01",
+    "reception": {
+      "year_average_rating": 8.5,
+      "rating_difference": 0.0,
+      "category": "Average"
+    }
+  },
+  {
+    "rank": 33,
+    "id": "tt0253474",
+    "name": "The Pianist",
+    "year": 2002,
+    "imbd_votes": 809467,
+    "imdb_rating": 8.5,
+    "certificate": "13",
+    "duration": 150,
+    "genre": "Biography,Drama,Music",
+    "img_link": "https://m.media-amazon.com/images/M/MV5BNWY3NDFlNjktM2JlYS00YjI5LWIzMDktZWUxZjEyNTJhNDYzXkEyXkFqcGdeQXVyNDI3NjU1NzQ@._V1_QL75_UY562_CR7",
+    "cast": [
+      {
+        "id": "nm0004778",
+        "name": "Adrien Brody"
+      },
+      {
+        "id": "nm0470981",
+        "name": "Thomas Kretschmann"
+      },
+      {
+        "id": "nm0277975",
+        "name": "Frank Finlay"
+      },
+      {
+        "id": "nm0288976",
+        "name": "Emilia Fox"
+      },
+      {
+        "id": "nm0954076",
+        "name": "Michal Zebrowski"
+      },
+      {
+        "id": "nm0832380",
+        "name": "Ed Stoppard"
+      },
+      {
+        "id": "nm0513520",
+        "name": "Maureen Lipman"
+      },
+      {
+        "id": "nm0962577",
+        "name": "Jessica Kate Meyer"
+      },
+      {
+        "id": "nm0713469",
+        "name": "Julia Rayner"
+      },
+      {
+        "id": "nm0611148",
+        "name": "Wanja Mues"
+      },
+      {
+        "id": "nm0725956",
+        "name": "Richard Ridings"
+      },
+      {
+        "id": "nm0789338",
+        "name": "Nomi Sharron"
+      },
+      {
+        "id": "nm0590372",
+        "name": "Anthony Milner"
+      },
+      {
+        "id": "nm0803944",
+        "name": "Lucy Skeaping"
+      },
+      {
+        "id": "nm1281253",
+        "name": "Roddy Skeaping"
+      },
+      {
+        "id": "nm1279616",
+        "name": "Ben Harlan"
+      },
+      {
+        "id": "nm0492458",
+        "name": "Thomas Lawinky"
+      },
+      {
+        "id": "nm0039784",
+        "name": "Joachim Paul Assb\u00f6ck"
+      }
+    ],
+    "director": {
+      "id": "nm0000591",
+      "name": "Roman Polanski"
+    },
+    "writers": [
+      {
+        "id": "nm0367838",
+        "name": "Ronald Harwood",
+        "valid": true
+      },
+      {
+        "id": "nm0844262",
+        "name": "Wladyslaw Szpilman",
+        "valid": true
+      }
+    ],
+    "extra_genres": [
+      "Drama",
+      "Biography",
+      "Music"
+    ],
+    "rating_percentage": 85.0,
+    "popularity_score": 6880.47,
+    "duration_hours": 2.5,
+    "release_date": "2002-01-01",
+    "reception": {
+      "year_average_rating": 8.63,
+      "rating_difference": -0.13,
+      "category": "Average"
+    }
+  },
+  {
+    "rank": 34,
+    "id": "tt0110413",
+    "name": "L\u00e9on",
+    "year": 1994,
+    "imbd_votes": 1132261,
+    "imdb_rating": 8.5,
+    "certificate": "A",
+    "duration": 110,
+    "genre": "Action,Crime,Drama",
+    "img_link": "https://m.media-amazon.com/images/M/MV5BNmNhOTgyYjItOTM0Yy00NTI0LWI4NjUtODQ0YzE3MjA4YTEwXkEyXkFqcGdeQXVyMTQyMTMwOTk0._V1_QL75_UY562_CR11",
+    "cast": [
+      {
+        "id": "nm0000606",
+        "name": "Jean Reno"
+      },
+      {
+        "id": "nm0000198",
+        "name": "Gary Oldman"
+      },
+      {
+        "id": "nm0000204",
+        "name": "Natalie Portman"
+      },
+      {
+        "id": "nm0000732",
+        "name": "Danny Aiello"
+      },
+      {
+        "id": "nm0032216",
+        "name": "Peter Appel"
+      },
+      {
+        "id": "nm0089112",
+        "name": "Willi One Blood"
+      },
+      {
+        "id": "nm0187199",
+        "name": "Don Creech"
+      },
+      {
+        "id": "nm0321798",
+        "name": "Keith A. Glascoe"
+      },
+      {
+        "id": "nm0779685",
+        "name": "Randolph Scott"
+      },
+      {
+        "id": "nm0045937",
+        "name": "Michael Badalucco"
+      },
+      {
+        "id": "nm0338746",
+        "name": "Ellen Greene"
+      },
+      {
+        "id": "nm0716408",
+        "name": "Elizabeth Regen"
+      },
+      {
+        "id": "nm0560593",
+        "name": "Carl J. Matusovich"
+      },
+      {
+        "id": "nm0784262",
+        "name": "Frank Senger"
+      },
+      {
+        "id": "nm1707797",
+        "name": "Lucius Wyatt Cherokee"
+      },
+      {
+        "id": "nm0149987",
+        "name": "Eric Challier"
+      },
+      {
+        "id": "nm0076306",
+        "name": "Luc Bernard"
+      },
+      {
+        "id": "nm0494069",
+        "name": "Ma\u00efwenn"
+      }
+    ],
+    "director": {
+      "id": "nm0000108",
+      "name": "Luc Besson"
+    },
+    "writers": [
+      {
+        "id": "nm0000108",
+        "name": "Luc Besson",
+        "valid": true
+      }
+    ],
+    "extra_genres": [
+      "Drama",
+      "Crime",
+      "Action"
+    ],
+    "rating_percentage": 85.0,
+    "popularity_score": 9624.22,
+    "duration_hours": 1.83,
+    "release_date": "1994-01-01",
+    "reception": {
+      "year_average_rating": 8.8,
+      "rating_difference": -0.3,
+      "category": "Average"
+    }
+  },
+  {
+    "rank": 35,
+    "id": "tt6751668",
+    "name": "Gisaengchung",
+    "year": 2019,
+    "imbd_votes": 752365,
+    "imdb_rating": 8.5,
+    "certificate": "A",
+    "duration": 132,
+    "genre": "Comedy,Drama,Thriller",
+    "img_link": "https://m.media-amazon.com/images/M/MV5BOTgyMWQ0ZWUtN2Q2MS00NmY0LWI3OWMtNjFkMzZlNDZjNTk0XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_QL75_UX380_CR0",
+    "cast": [
+      {
+        "id": "nm0814280",
+        "name": "Song Kang-ho"
+      },
+      {
+        "id": "nm1310525",
+        "name": "Sun-kyun Lee"
+      },
+      {
+        "id": "nm1856097",
+        "name": "Cho Yeo-jeong"
+      },
+      {
+        "id": "nm6079248",
+        "name": "Choi Woo-sik"
+      },
+      {
+        "id": "nm6476224",
+        "name": "So-dam Park"
+      },
+      {
+        "id": "nm7553003",
+        "name": "Lee Jeong-eun"
+      },
+      {
+        "id": "nm4525883",
+        "name": "Jang Hye-jin"
+      },
+      {
+        "id": "nm3745391",
+        "name": "Park Myeong-hoon"
+      },
+      {
+        "id": "nm7616095",
+        "name": "Ji-so Jung"
+      },
+      {
+        "id": "nm10700274",
+        "name": "Hyun-jun Jung"
+      },
+      {
+        "id": "nm4522499",
+        "name": "Keun-rok Park"
+      },
+      {
+        "id": "nm10860732",
+        "name": "Yi-Seo Jung"
+      },
+      {
+        "id": "nm11261148",
+        "name": "Jae-myeong Jo"
+      },
+      {
+        "id": "nm10215504",
+        "name": "Ik-han Jung"
+      },
+      {
+        "id": "nm11044243",
+        "name": "Kyu-baek Kim"
+      },
+      {
+        "id": "nm11432327",
+        "name": "Hwang In Kyung"
+      },
+      {
+        "id": "nm9086195",
+        "name": "Ahn Seong-Bong"
+      },
+      {
+        "id": "nm11432328",
+        "name": "Kim Jin Hyung"
+      }
+    ],
+    "director": {
+      "id": "nm0094435",
+      "name": "Bong Joon Ho"
+    },
+    "writers": [
+      {
+        "id": "nm0094435",
+        "name": "Bong Joon Ho",
+        "valid": true
+      },
+      {
+        "id": "nm8243301",
+        "name": "Han Jin-won",
+        "valid": true
+      }
+    ],
+    "extra_genres": [
+      "Thriller",
+      "Drama",
+      "Comedy"
+    ],
+    "rating_percentage": 85.0,
+    "popularity_score": 6395.1,
+    "duration_hours": 2.2,
+    "release_date": "2019-01-01",
+    "reception": {
+      "year_average_rating": 8.5,
+      "rating_difference": 0.0,
+      "category": "Average"
+    }
+  },
+  {
+    "rank": 36,
+    "id": "tt0110357",
+    "name": "The Lion King",
+    "year": 1994,
+    "imbd_votes": 1030401,
+    "imdb_rating": 8.5,
+    "certificate": "U",
+    "duration": 88,
+    "genre": "Animation,Adventure,Drama",
+    "img_link": "https://m.media-amazon.com/images/M/MV5BYTYxNGMyZTYtMjE3MS00MzNjLWFjNmYtMDk3N2FmM2JiM2M1XkEyXkFqcGdeQXVyNjY5NDU4NzI@._V1_QL75_UX380_CR0",
+    "cast": [
+      {
+        "id": "nm0000111",
+        "name": "Matthew Broderick"
+      },
+      {
+        "id": "nm0000460",
+        "name": "Jeremy Irons"
+      },
+      {
+        "id": "nm0000469",
+        "name": "James Earl Jones"
+      },
+      {
+        "id": "nm0000155",
+        "name": "Whoopi Goldberg"
+      },
+      {
+        "id": "nm0000100",
+        "name": "Rowan Atkinson"
+      },
+      {
+        "id": "nm0129295",
+        "name": "Niketa Calame-Harris"
+      },
+      {
+        "id": "nm0191906",
+        "name": "Jim Cummings"
+      },
+      {
+        "id": "nm0347039",
+        "name": "Robert Guillaume"
+      },
+      {
+        "id": "nm0446702",
+        "name": "Moira Kelly"
+      },
+      {
+        "id": "nm0001447",
+        "name": "Nathan Lane"
+      },
+      {
+        "id": "nm0494922",
+        "name": "Zoe Leader"
+      },
+      {
+        "id": "nm0001507",
+        "name": "Cheech Marin"
+      },
+      {
+        "id": "nm0754676",
+        "name": "Ernie Sabella"
+      },
+      {
+        "id": "nm0801672",
+        "name": "Madge Sinclair"
+      },
+      {
+        "id": "nm0001795",
+        "name": "Jonathan Taylor Thomas"
+      },
+      {
+        "id": "nm0919798",
+        "name": "Frank Welker"
+      },
+      {
+        "id": "nm0146681",
+        "name": "Cathy Cavadini"
+      },
+      {
+        "id": "nm0243804",
+        "name": "Judi M. Durand"
+      }
+    ],
+    "director": {
+      "id": "nm0021249,nm0591450",
+      "name": "Roger Allers,Rob Minkoff"
+    },
+    "writers": [
+      {
+        "id": "nm0575293",
+        "name": "Irene Mecchi",
+        "valid": true
+      },
+      {
+        "id": "nm0731271",
+        "name": "Jonathan Roberts",
+        "valid": true
+      },
+      {
+        "id": "nm0941314",
+        "name": "Linda Woolverton",
+        "valid": true
+      }
+    ],
+    "extra_genres": [
+      "Drama",
+      "Adventure",
+      "Animation"
+    ],
+    "rating_percentage": 85.0,
+    "popularity_score": 8758.41,
+    "duration_hours": 1.47,
+    "release_date": "1994-01-01",
+    "reception": {
+      "year_average_rating": 8.8,
+      "rating_difference": -0.3,
+      "category": "Average"
+    }
+  },
+  {
+    "rank": 37,
+    "id": "tt0172495",
+    "name": "Gladiator",
+    "year": 2000,
+    "imbd_votes": 1461459,
+    "imdb_rating": 8.5,
+    "certificate": "UA",
+    "duration": 155,
+    "genre": "Action,Adventure,Drama",
+    "img_link": "https://m.media-amazon.com/images/M/MV5BMDliMmNhNDEtODUyOS00MjNlLTgxODEtN2U3NzIxMGVkZTA1L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL75_UX380_CR0",
+    "cast": [
+      {
+        "id": "nm0000128",
+        "name": "Russell Crowe"
+      },
+      {
+        "id": "nm0001618",
+        "name": "Joaquin Phoenix"
+      },
+      {
+        "id": "nm0001567",
+        "name": "Connie Nielsen"
+      },
+      {
+        "id": "nm0001657",
+        "name": "Oliver Reed"
+      },
+      {
+        "id": "nm0001321",
+        "name": "Richard Harris"
+      },
+      {
+        "id": "nm0001394",
+        "name": "Derek Jacobi"
+      },
+      {
+        "id": "nm0005023",
+        "name": "Djimon Hounsou"
+      },
+      {
+        "id": "nm0774516",
+        "name": "David Schofield"
+      },
+      {
+        "id": "nm0795344",
+        "name": "John Shrapnel"
+      },
+      {
+        "id": "nm0032962",
+        "name": "Tomas Arana"
+      },
+      {
+        "id": "nm0005241",
+        "name": "Ralf Moeller"
+      },
+      {
+        "id": "nm0004829",
+        "name": "Spencer Treat Clark"
+      },
+      {
+        "id": "nm0376101",
+        "name": "David Hemmings"
+      },
+      {
+        "id": "nm0281107",
+        "name": "Tommy Flanagan"
+      },
+      {
+        "id": "nm0861752",
+        "name": "Sven-Ole Thorsen"
+      },
+      {
+        "id": "nm0229084",
+        "name": "Omid Djalili"
+      },
+      {
+        "id": "nm0568988",
+        "name": "Nicholas McGaughey"
+      },
+      {
+        "id": "nm0445479",
+        "name": "Chris Kell"
+      }
+    ],
+    "director": {
+      "id": "nm0000631",
+      "name": "Ridley Scott"
+    },
+    "writers": [
+      {
+        "id": "nm0291905",
+        "name": "David Franzoni",
+        "valid": true
+      },
+      {
+        "id": "nm0517589",
+        "name": "John Logan",
+        "valid": true
+      },
+      {
+        "id": "nm0629933",
+        "name": "William Nicholson",
+        "valid": true
+      }
+    ],
+    "extra_genres": [
+      "Drama",
+      "Adventure",
+      "Action"
+    ],
+    "rating_percentage": 85.0,
+    "popularity_score": 12422.4,
+    "duration_hours": 2.58,
+    "release_date": "2000-01-01",
+    "reception": {
+      "year_average_rating": 8.5,
+      "rating_difference": 0.0,
+      "category": "Average"
+    }
+  },
+  {
+    "rank": 38,
+    "id": "tt0120586",
+    "name": "American History X",
+    "year": 1998,
+    "imbd_votes": 1100708,
+    "imdb_rating": 8.5,
+    "certificate": "R",
+    "duration": 119,
+    "genre": "Crime,Drama",
+    "img_link": "https://m.media-amazon.com/images/M/MV5BZTJhN2FkYWEtMGI0My00YWM4LWI2MjAtM2UwNjY4MTI2ZTQyXkEyXkFqcGdeQXVyNjc3MjQzNTI@._V1_QL75_UX380_CR0",
+    "cast": [
+      {
+        "id": "nm0001570",
+        "name": "Edward Norton"
+      },
+      {
+        "id": "nm0000411",
+        "name": "Edward Furlong"
+      },
+      {
+        "id": "nm0000350",
+        "name": "Beverly D'Angelo"
+      },
+      {
+        "id": "nm0000497",
+        "name": "Jennifer Lien"
+      },
+      {
+        "id": "nm0839486",
+        "name": "Ethan Suplee"
+      },
+      {
+        "id": "nm0000103",
+        "name": "Fairuza Balk"
+      },
+      {
+        "id": "nm0000984",
+        "name": "Avery Brooks"
+      },
+      {
+        "id": "nm0001285",
+        "name": "Elliott Gould"
+      },
+      {
+        "id": "nm0005078",
+        "name": "Stacy Keach"
+      },
+      {
+        "id": "nm0750916",
+        "name": "William Russ"
+      },
+      {
+        "id": "nm0868956",
+        "name": "Guy Torry"
+      },
+      {
+        "id": "nm0181288",
+        "name": "Joe Cortese"
+      },
+      {
+        "id": "nm0808633",
+        "name": "Jason Bose Smith"
+      },
+      {
+        "id": "nm0529014",
+        "name": "Antonio David Lyons"
+      },
+      {
+        "id": "nm0812550",
+        "name": "Alex Sol"
+      },
+      {
+        "id": "nm0539537",
+        "name": "Keram Malicki-S\u00e1nchez"
+      },
+      {
+        "id": "nm0004709",
+        "name": "Giuseppe Andrews"
+      },
+      {
+        "id": "nm6783755",
+        "name": "Michelle Christine White"
+      }
+    ],
+    "director": {
+      "id": "nm0443411",
+      "name": "Tony Kaye"
+    },
+    "writers": [
+      {
+        "id": "nm0571346",
+        "name": "David McKenna",
+        "valid": true
+      }
+    ],
+    "extra_genres": [
+      "Drama",
+      "Crime"
+    ],
+    "rating_percentage": 85.0,
+    "popularity_score": 9356.02,
+    "duration_hours": 1.98,
+    "release_date": "1998-01-01",
+    "reception": {
+      "year_average_rating": 8.55,
+      "rating_difference": -0.05,
+      "category": "Average"
+    }
+  },
+  {
+    "rank": 39,
+    "id": "tt0114814",
+    "name": "The Usual Suspects",
+    "year": 1995,
+    "imbd_votes": 1064869,
+    "imdb_rating": 8.5,
+    "certificate": "A",
+    "duration": 106,
+    "genre": "Crime,Drama,Mystery",
+    "img_link": "https://m.media-amazon.com/images/M/MV5BZDdiNDQ1MTUtYTNkZS00YWVjLTgxYWUtODhmMWYwNDQ0NzU5XkEyXkFqcGdeQXVyNDIyNjA2MTk@._V1_QL75_UX380_CR0",
+    "cast": [
+      {
+        "id": "nm0000228",
+        "name": "Kevin Spacey"
+      },
+      {
+        "id": "nm0000321",
+        "name": "Gabriel Byrne"
+      },
+      {
+        "id": "nm0001590",
+        "name": "Chazz Palminteri"
+      },
+      {
+        "id": "nm0000286",
+        "name": "Stephen Baldwin"
+      },
+      {
+        "id": "nm0001125",
+        "name": "Benicio Del Toro"
+      },
+      {
+        "id": "nm0001629",
+        "name": "Kevin Pollak"
+      },
+      {
+        "id": "nm0000592",
+        "name": "Pete Postlethwaite"
+      },
+      {
+        "id": "nm0000751",
+        "name": "Suzy Amis"
+      },
+      {
+        "id": "nm0002064",
+        "name": "Giancarlo Esposito"
+      },
+      {
+        "id": "nm0000445",
+        "name": "Dan Hedaya"
+      },
+      {
+        "id": "nm0000860",
+        "name": "Paul Bartel"
+      },
+      {
+        "id": "nm0107808",
+        "name": "Carl Bressler"
+      },
+      {
+        "id": "nm0800339",
+        "name": "Phillipe Simon"
+      },
+      {
+        "id": "nm0790436",
+        "name": "Jack Shearer"
+      },
+      {
+        "id": "nm0261452",
+        "name": "Christine Estabrook"
+      },
+      {
+        "id": "nm0163988",
+        "name": "Clark Gregg"
+      },
+      {
+        "id": "nm0402974",
+        "name": "Morgan Hunter"
+      },
+      {
+        "id": "nm0198470",
+        "name": "Ken Daly"
+      }
+    ],
+    "director": {
+      "id": "nm0001741",
+      "name": "Bryan Singer"
+    },
+    "writers": [
+      {
+        "id": "nm0003160",
+        "name": "Christopher McQuarrie",
+        "valid": true
+      }
+    ],
+    "extra_genres": [
+      "Mystery",
+      "Drama",
+      "Crime"
+    ],
+    "rating_percentage": 85.0,
+    "popularity_score": 9051.39,
+    "duration_hours": 1.77,
+    "release_date": "1995-01-01",
+    "reception": {
+      "year_average_rating": 8.55,
+      "rating_difference": -0.05,
+      "category": "Average"
+    }
+  },
+  {
+    "rank": 40,
+    "id": "tt0407887",
+    "name": "The Departed",
+    "year": 2006,
+    "imbd_votes": 1292858,
+    "imdb_rating": 8.5,
+    "certificate": "A",
+    "duration": 151,
+    "genre": "Crime,Drama,Thriller",
+    "img_link": "https://m.media-amazon.com/images/M/MV5BYTViNjMyNmUtNDFkNC00ZDRlLThmMDUtZDU2YWE4NGI2ZjVmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL75_UX380_CR0",
+    "cast": [
+      {
+        "id": "nm0000138",
+        "name": "Leonardo DiCaprio"
+      },
+      {
+        "id": "nm0000354",
+        "name": "Matt Damon"
+      },
+      {
+        "id": "nm0000197",
+        "name": "Jack Nicholson"
+      },
+      {
+        "id": "nm0000242",
+        "name": "Mark Wahlberg"
+      },
+      {
+        "id": "nm0000640",
+        "name": "Martin Sheen"
+      },
+      {
+        "id": "nm0935653",
+        "name": "Ray Winstone"
+      },
+      {
+        "id": "nm0267812",
+        "name": "Vera Farmiga"
+      },
+      {
+        "id": "nm0026364",
+        "name": "Anthony Anderson"
+      },
+      {
+        "id": "nm0000285",
+        "name": "Alec Baldwin"
+      },
+      {
+        "id": "nm0180984",
+        "name": "Kevin Corrigan"
+      },
+      {
+        "id": "nm0197647",
+        "name": "James Badge Dale"
+      },
+      {
+        "id": "nm0641244",
+        "name": "David O'Hara"
+      },
+      {
+        "id": "nm0001679",
+        "name": "Mark Rolston"
+      },
+      {
+        "id": "nm0906301",
+        "name": "Robert Wahlberg"
+      },
+      {
+        "id": "nm0198306",
+        "name": "Kristen Dalton"
+      },
+      {
+        "id": "nm2401565",
+        "name": "Thomas B. Duffy"
+      },
+      {
+        "id": "nm0400879",
+        "name": "Richard Hughes"
+      },
+      {
+        "id": "nm0533323",
+        "name": "J.C. MacKenzie"
+      }
+    ],
+    "director": {
+      "id": "nm0000217",
+      "name": "Martin Scorsese"
+    },
+    "writers": [
+      {
+        "id": "nm1184258",
+        "name": "William Monahan",
+        "valid": true
+      },
+      {
+        "id": "nm0538320",
+        "name": "Alan Mak",
+        "valid": true
+      },
+      {
+        "id": "nm0159039",
+        "name": "Felix Chong",
+        "valid": true
+      }
+    ],
+    "extra_genres": [
+      "Thriller",
+      "Drama",
+      "Crime"
+    ],
+    "rating_percentage": 85.0,
+    "popularity_score": 10989.29,
+    "duration_hours": 2.52,
+    "release_date": "2006-01-01",
+    "reception": {
+      "year_average_rating": 8.5,
+      "rating_difference": 0.0,
+      "category": "Average"
+    }
+  },
+  {
+    "rank": 41,
+    "id": "tt0482571",
+    "name": "The Prestige",
+    "year": 2006,
+    "imbd_votes": 1299898,
+    "imdb_rating": 8.5,
+    "certificate": "U",
+    "duration": 130,
+    "genre": "Drama,Mystery,Sci-Fi",
+    "img_link": "https://m.media-amazon.com/images/M/MV5BMjA4NDI0MTIxNF5BMl5BanBnXkFtZTYwNTM0MzY2._V1_QL75_UX380_CR0",
+    "cast": [
+      {
+        "id": "nm0000288",
+        "name": "Christian Bale"
+      },
+      {
+        "id": "nm0413168",
+        "name": "Hugh Jackman"
+      },
+      {
+        "id": "nm0424060",
+        "name": "Scarlett Johansson"
+      },
+      {
+        "id": "nm0000323",
+        "name": "Michael Caine"
+      },
+      {
+        "id": "nm0005305",
+        "name": "Piper Perabo"
+      },
+      {
+        "id": "nm0356017",
+        "name": "Rebecca Hall"
+      },
+      {
+        "id": "nm2195817",
+        "name": "Samantha Mahurin"
+      },
+      {
+        "id": "nm0000309",
+        "name": "David Bowie"
+      },
+      {
+        "id": "nm0785227",
+        "name": "Andy Serkis"
+      },
+      {
+        "id": "nm0204425",
+        "name": "Daniel Davis"
+      },
+      {
+        "id": "nm0682063",
+        "name": "Jim Piddock"
+      },
+      {
+        "id": "nm0623762",
+        "name": "Christopher Neame"
+      },
+      {
+        "id": "nm0752699",
+        "name": "Mark Ryan"
+      },
+      {
+        "id": "nm0715953",
+        "name": "Roger Rees"
+      },
+      {
+        "id": "nm0364807",
+        "name": "Jamie Harris"
+      },
+      {
+        "id": "nm0829685",
+        "name": "Monty Stuart"
+      },
+      {
+        "id": "nm0674052",
+        "name": "Ron Perkins"
+      },
+      {
+        "id": "nm0419633",
+        "name": "Ricky Jay"
+      }
+    ],
+    "director": {
+      "id": "nm0634240",
+      "name": "Christopher Nolan"
+    },
+    "writers": [
+      {
+        "id": "nm0634300",
+        "name": "Jonathan Nolan",
+        "valid": true
+      },
+      {
+        "id": "nm0634240",
+        "name": "Christopher Nolan",
+        "valid": true
+      },
+      {
+        "id": "nm1793993",
+        "name": "Christopher Priest",
+        "valid": true
+      }
+    ],
+    "extra_genres": [
+      "Mystery",
+      "Sci-Fi",
+      "Drama"
+    ],
+    "rating_percentage": 85.0,
+    "popularity_score": 11049.13,
+    "duration_hours": 2.17,
+    "release_date": "2006-01-01",
+    "reception": {
+      "year_average_rating": 8.5,
+      "rating_difference": 0.0,
+      "category": "Average"
+    }
+  },
+  {
+    "rank": 42,
+    "id": "tt0034583",
+    "name": "Casablanca",
+    "year": 1942,
+    "imbd_votes": 561755,
+    "imdb_rating": 8.5,
+    "certificate": "U",
+    "duration": 102,
+    "genre": "Drama,Romance,War",
+    "img_link": "https://m.media-amazon.com/images/M/MV5BOTA5NDZlZGUtMjAxOS00YTRkLTkwYmMtYWQ0NWEwZDZiNjEzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_QL75_UX380_CR0",
+    "cast": [
+      {
+        "id": "nm0000007",
+        "name": "Humphrey Bogart"
+      },
+      {
+        "id": "nm0000006",
+        "name": "Ingrid Bergman"
+      },
+      {
+        "id": "nm0002134",
+        "name": "Paul Henreid"
+      },
+      {
+        "id": "nm0001647",
+        "name": "Claude Rains"
+      },
+      {
+        "id": "nm0891998",
+        "name": "Conrad Veidt"
+      },
+      {
+        "id": "nm0002113",
+        "name": "Sydney Greenstreet"
+      },
+      {
+        "id": "nm0000048",
+        "name": "Peter Lorre"
+      },
+      {
+        "id": "nm0757064",
+        "name": "S.Z. Sakall"
+      },
+      {
+        "id": "nm0495495",
+        "name": "Madeleine Lebeau"
+      },
+      {
+        "id": "nm0933330",
+        "name": "Dooley Wilson"
+      },
+      {
+        "id": "nm0656226",
+        "name": "Joy Page"
+      },
+      {
+        "id": "nm0702798",
+        "name": "John Qualen"
+      },
+      {
+        "id": "nm0455893",
+        "name": "Leonid Kinskey"
+      },
+      {
+        "id": "nm0092290",
+        "name": "Curt Bois"
+      },
+      {
+        "id": "nm0007808",
+        "name": "Abdullah Abbas"
+      },
+      {
+        "id": "nm0010185",
+        "name": "Enrique Acosta"
+      },
+      {
+        "id": "nm0013306",
+        "name": "Ed Agresti"
+      },
+      {
+        "id": "nm3629365",
+        "name": "Arnet Amos"
+      }
+    ],
+    "director": {
+      "id": "nm0002031",
+      "name": "Michael Curtiz"
+    },
+    "writers": [
+      {
+        "id": "nm0258493",
+        "name": "Julius J. Epstein",
+        "valid": true
+      },
+      {
+        "id": "nm0258525",
+        "name": "Philip G. Epstein",
+        "valid": true
+      },
+      {
+        "id": "nm0462321",
+        "name": "Howard Koch",
+        "valid": true
+      }
+    ],
+    "extra_genres": [
+      "Drama",
+      "War",
+      "Romance"
+    ],
+    "rating_percentage": 85.0,
+    "popularity_score": 4774.92,
+    "duration_hours": 1.7,
+    "release_date": "1942-01-01",
+    "reception": {
+      "year_average_rating": 8.5,
+      "rating_difference": 0.0,
+      "category": "Average"
+    }
+  },
+  {
+    "rank": 43,
+    "id": "tt1745960",
+    "name": "Top Gun: Maverick",
+    "year": 2022,
+    "imbd_votes": 182091,
+    "imdb_rating": 8.6,
+    "certificate": "UA",
+    "duration": 130,
+    "genre": "Action,Drama",
+    "img_link": "https://m.media-amazon.com/images/M/MV5BMTA1NzAzMjQwMjdeQTJeQWpwZ15BbWU4MDcyNDkzMjIx._V1_QL75_UX380_CR0",
+    "cast": [
+      {
+        "id": "nm0000129",
+        "name": "Tom Cruise"
+      },
+      {
+        "id": "nm0000124",
+        "name": "Jennifer Connelly"
+      },
+      {
+        "id": "nm1886602",
+        "name": "Miles Teller"
+      },
+      {
+        "id": "nm0000174",
+        "name": "Val Kilmer"
+      },
+      {
+        "id": "nm1506981",
+        "name": "Bashir Salahuddin"
+      },
+      {
+        "id": "nm0358316",
+        "name": "Jon Hamm"
+      },
+      {
+        "id": "nm0663174",
+        "name": "Charles Parnell"
+      },
+      {
+        "id": "nm4834815",
+        "name": "Monica Barbaro"
+      },
+      {
+        "id": "nm5730649",
+        "name": "Lewis Pullman"
+      },
+      {
+        "id": "nm1337350",
+        "name": "Jay Ellis"
+      },
+      {
+        "id": "nm6639989",
+        "name": "Danny Ramirez"
+      },
+      {
+        "id": "nm1412974",
+        "name": "Glen Powell"
+      },
+      {
+        "id": "nm7453477",
+        "name": "Jack Schumacher"
+      },
+      {
+        "id": "nm3254274",
+        "name": "Manny Jacinto"
+      },
+      {
+        "id": "nm2745297",
+        "name": "Kara Wang"
+      },
+      {
+        "id": "nm8241861",
+        "name": "Greg Tarzan Davis"
+      },
+      {
+        "id": "nm4917623",
+        "name": "Jake Picking"
+      },
+      {
+        "id": "nm3100463",
+        "name": "Raymond Lee"
+      }
+    ],
+    "director": {
+      "id": "nm2676052",
+      "name": "Joseph Kosinski"
+    },
+    "writers": [
+      {
+        "id": "nm0143596",
+        "name": "Jim Cash",
+        "valid": true
+      },
+      {
+        "id": "nm0258390",
+        "name": "Jack Epps Jr.",
+        "valid": true
+      },
+      {
+        "id": "nm0185976",
+        "name": "Peter Craig",
+        "valid": true
+      }
+    ],
+    "extra_genres": [
+      "Drama",
+      "Action"
+    ],
+    "rating_percentage": 86.0,
+    "popularity_score": 1565.98,
+    "duration_hours": 2.17,
+    "release_date": "2022-01-01",
+    "reception": {
+      "year_average_rating": 8.6,
+      "rating_difference": 0.0,
+      "category": "Average"
+    }
+  },
+  {
+    "rank": 44,
+    "id": "tt2582802",
+    "name": "Whiplash",
+    "year": 2014,
+    "imbd_votes": 816452,
+    "imdb_rating": 8.5,
+    "certificate": "A",
+    "duration": 106,
+    "genre": "Drama,Music",
+    "img_link": "https://m.media-amazon.com/images/M/MV5BYjBmYTQ1NjItZWU5MS00YjI0LTg2OTYtYmFkN2JkMmNiNWVkXkEyXkFqcGdeQXVyMTMxMTY0OTQ@._V1_QL75_UY562_CR17",
+    "cast": [
+      {
+        "id": "nm1886602",
+        "name": "Miles Teller"
+      },
+      {
+        "id": "nm0799777",
+        "name": "J.K. Simmons"
+      },
+      {
+        "id": "nm2552034",
+        "name": "Melissa Benoist"
+      },
+      {
+        "id": "nm0001663",
+        "name": "Paul Reiser"
+      },
+      {
+        "id": "nm3271473",
+        "name": "Austin Stowell"
+      },
+      {
+        "id": "nm4336119",
+        "name": "Nate Lang"
+      },
+      {
+        "id": "nm0611889",
+        "name": "Chris Mulkey"
+      },
+      {
+        "id": "nm0348515",
+        "name": "Damon Gupton"
+      },
+      {
+        "id": "nm0819320",
+        "name": "Suanne Spoke"
+      },
+      {
+        "id": "nm1045739",
+        "name": "Max Kasch"
+      },
+      {
+        "id": "nm5826958",
+        "name": "Charlie Ian"
+      },
+      {
+        "id": "nm2172460",
+        "name": "Jayson Blair"
+      },
+      {
+        "id": "nm2492243",
+        "name": "Kofi Siriboe"
+      },
+      {
+        "id": "nm1276956",
+        "name": "Kavita Patil"
+      },
+      {
+        "id": "nm4392192",
+        "name": "C.J. Vana"
+      },
+      {
+        "id": "nm0523061",
+        "name": "Tarik Lowe"
+      },
+      {
+        "id": "nm4903282",
+        "name": "Tyler Kimball"
+      },
+      {
+        "id": "nm1117946",
+        "name": "Rogelio Douglas Jr."
+      }
+    ],
+    "director": {
+      "id": "nm3227090",
+      "name": "Damien Chazelle"
+    },
+    "writers": [
+      {
+        "id": "nm3227090",
+        "name": "Damien Chazelle",
+        "valid": true
+      }
+    ],
+    "extra_genres": [
+      "Drama",
+      "Music"
+    ],
+    "rating_percentage": 85.0,
+    "popularity_score": 6939.84,
+    "duration_hours": 1.77,
+    "release_date": "2014-01-01",
+    "reception": {
+      "year_average_rating": 8.55,
+      "rating_difference": -0.05,
+      "category": "Average"
+    }
+  },
+  {
+    "rank": 45,
+    "id": "tt1675434",
+    "name": "The Intouchables",
+    "year": 2011,
+    "imbd_votes": 836025,
+    "imdb_rating": 8.5,
+    "certificate": "UA",
+    "duration": 112,
+    "genre": "Biography,Comedy,Drama",
+    "img_link": "https://m.media-amazon.com/images/M/MV5BZmY2NjUzNDQtNTgxNC00M2Q4LTljOWQtMjNjNDBjNWUxNmJlXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_QL75_UX380_CR0",
+    "cast": [
+      {
+        "id": "nm0167388",
+        "name": "Fran\u00e7ois Cluzet"
+      },
+      {
+        "id": "nm1082477",
+        "name": "Omar Sy"
+      },
+      {
+        "id": "nm0494504",
+        "name": "Anne Le Ny"
+      },
+      {
+        "id": "nm1109153",
+        "name": "Audrey Fleurot"
+      },
+      {
+        "id": "nm1525639",
+        "name": "Jos\u00e9phine de Meaux"
+      },
+      {
+        "id": "nm0597042",
+        "name": "Clotilde Mollet"
+      },
+      {
+        "id": "nm2031248",
+        "name": "Alba Ga\u00efa Bellugi"
+      },
+      {
+        "id": "nm3994610",
+        "name": "Cyril Mendy"
+      },
+      {
+        "id": "nm5511912",
+        "name": "Salimata Kamate"
+      },
+      {
+        "id": "nm5511483",
+        "name": "Absa Diatou Toure"
+      },
+      {
+        "id": "nm0644314",
+        "name": "Gr\u00e9goire Oestermann"
+      },
+      {
+        "id": "nm0196839",
+        "name": "Dominique Daguier"
+      },
+      {
+        "id": "nm0139107",
+        "name": "Fran\u00e7ois Caron"
+      },
+      {
+        "id": "nm0024634",
+        "name": "Christian Ameri"
+      },
+      {
+        "id": "nm4552893",
+        "name": "Thomas Soliv\u00e9r\u00e8s"
+      },
+      {
+        "id": "nm1049589",
+        "name": "Doroth\u00e9e Bri\u00e8re"
+      },
+      {
+        "id": "nm0221103",
+        "name": "Marie-Laure Descoureaux"
+      },
+      {
+        "id": "nm2173724",
+        "name": "\u00c9milie Caen"
+      }
+    ],
+    "director": {
+      "id": "nm0619923,nm0865918",
+      "name": "Olivier Nakache,\u00c9ric Toledano"
+    },
+    "writers": [
+      {
+        "id": "nm0619923",
+        "name": "Olivier Nakache",
+        "valid": true
+      },
+      {
+        "id": "nm4778840",
+        "name": "Philippe Pozzo di Borgo",
+        "valid": true
+      },
+      {
+        "id": "nm0865918",
+        "name": "\u00c9ric Toledano",
+        "valid": true
+      }
+    ],
+    "extra_genres": [
+      "Drama",
+      "Biography",
+      "Comedy"
+    ],
+    "rating_percentage": 85.0,
+    "popularity_score": 7106.21,
+    "duration_hours": 1.87,
+    "release_date": "2011-01-01",
+    "reception": {
+      "year_average_rating": 8.5,
+      "rating_difference": 0.0,
+      "category": "Average"
+    }
+  },
+  {
+    "rank": 46,
+    "id": "tt0027977",
+    "name": "Modern Times",
+    "year": 1936,
+    "imbd_votes": 238388,
+    "imdb_rating": 8.5,
+    "certificate": "G",
+    "duration": 87,
+    "genre": "Comedy,Drama,Romance",
+    "img_link": "https://m.media-amazon.com/images/M/MV5BMTYxNDA3MDQwNl5BMl5BanBnXkFtZTcwNTU4Mzc1Nw@@._V1_QL75_UX380_CR0",
+    "cast": [
+      {
+        "id": "nm0000122",
+        "name": "Charles Chaplin"
+      },
+      {
+        "id": "nm0002104",
+        "name": "Paulette Goddard"
+      },
+      {
+        "id": "nm0074788",
+        "name": "Henry Bergman"
+      },
+      {
+        "id": "nm0761866",
+        "name": "Tiny Sandford"
+      },
+      {
+        "id": "nm0174682",
+        "name": "Chester Conklin"
+      },
+      {
+        "id": "nm0003424",
+        "name": "Hank Mann"
+      },
+      {
+        "id": "nm0090008",
+        "name": "Stanley Blystone"
+      },
+      {
+        "id": "nm0305087",
+        "name": "Al Ernest Garcia"
+      },
+      {
+        "id": "nm0018685",
+        "name": "Richard Alexander"
+      },
+      {
+        "id": "nm0721637",
+        "name": "Cecil Reynolds"
+      },
+      {
+        "id": "nm0571901",
+        "name": "Mira McKinney"
+      },
+      {
+        "id": "nm0534259",
+        "name": "Murdock MacQuarrie"
+      },
+      {
+        "id": "nm0524306",
+        "name": "Wilfred Lucas"
+      },
+      {
+        "id": "nm1250355",
+        "name": "Edward LeSaint"
+      },
+      {
+        "id": "nm0538984",
+        "name": "Fred Malatesta"
+      },
+      {
+        "id": "nm0825624",
+        "name": "Sammy Stein"
+      },
+      {
+        "id": "nm0840339",
+        "name": "Juana Sutton"
+      },
+      {
+        "id": "nm0647013",
+        "name": "Ted Oliver"
+      }
+    ],
+    "director": {
+      "id": "nm0000122",
+      "name": "Charles Chaplin"
+    },
+    "writers": [
+      {
+        "id": "nm0000122",
+        "name": "Charles Chaplin",
+        "valid": true
+      }
+    ],
+    "extra_genres": [
+      "Drama",
+      "Comedy",
+      "Romance"
+    ],
+    "rating_percentage": 85.0,
+    "popularity_score": 2026.3,
+    "duration_hours": 1.45,
+    "release_date": "1936-01-01",
+    "reception": {
+      "year_average_rating": 8.5,
+      "rating_difference": 0.0,
+      "category": "Average"
+    }
+  },
+  {
+    "rank": 47,
+    "id": "tt0056058",
+    "name": "Seppuku",
+    "year": 1962,
+    "imbd_votes": 54568,
+    "imdb_rating": 8.6,
+    "certificate": "Not Rated",
+    "duration": 133,
+    "genre": "Action,Drama,Mystery",
+    "img_link": "https://m.media-amazon.com/images/M/MV5BZjk4NmVkNmItMzBmMS00NDZhLTliNDEtYzEzYzdiZDI1NWRlXkEyXkFqcGdeQXVyMzExODEzNDA@._V1_QL75_UY562_CR8",
+    "cast": [
+      {
+        "id": "nm0619938",
+        "name": "Tatsuya Nakadai"
+      },
+      {
+        "id": "nm0410968",
+        "name": "Akira Ishihama"
+      },
+      {
+        "id": "nm0412615",
+        "name": "Shima Iwashita"
+      },
+      {
+        "id": "nm0848533",
+        "name": "Tetsur\u00f4 Tanba"
+      },
+      {
+        "id": "nm0592756",
+        "name": "Masao Mishima"
+      },
+      {
+        "id": "nm0368049",
+        "name": "Ichir\u00f4 Nakatani"
+      },
+      {
+        "id": "nm0766225",
+        "name": "Kei Sat\u00f4"
+      },
+      {
+        "id": "nm0408343",
+        "name": "Yoshio Inaba"
+      },
+      {
+        "id": "nm0407030",
+        "name": "Hisashi Igawa"
+      },
+      {
+        "id": "nm1372205",
+        "name": "T\u00f4ru Takeuchi"
+      },
+      {
+        "id": "nm0031837",
+        "name": "Yoshir\u00f4 Aoki"
+      },
+      {
+        "id": "nm0559581",
+        "name": "Tatsuo Matsumura"
+      },
+      {
+        "id": "nm0461983",
+        "name": "Akiji Kobayashi"
+      },
+      {
+        "id": "nm1082958",
+        "name": "K\u00f4ichi Hayashi"
+      },
+      {
+        "id": "nm0327104",
+        "name": "Ry\u00fbtar\u00f4 Gomi"
+      },
+      {
+        "id": "nm0044469",
+        "name": "J\u00f4 Azumi"
+      },
+      {
+        "id": "nm0866736",
+        "name": "Nakajir\u00f4 Tomita"
+      },
+      {
+        "id": "nm0024197",
+        "name": "Shichisabur\u00f4 Amatsu"
+      }
+    ],
+    "director": {
+      "id": "nm0462030",
+      "name": "Masaki Kobayashi"
+    },
+    "writers": [
+      {
+        "id": "nm0847668",
+        "name": "Yasuhiko Takiguchi",
+        "valid": true
+      },
+      {
+        "id": "nm0368074",
+        "name": "Shinobu Hashimoto",
+        "valid": true
+      }
+    ],
+    "extra_genres": [
+      "Mystery",
+      "Drama",
+      "Action"
+    ],
+    "rating_percentage": 86.0,
+    "popularity_score": 469.28,
+    "duration_hours": 2.22,
+    "release_date": "1962-01-01",
+    "reception": {
+      "year_average_rating": 8.6,
+      "rating_difference": 0.0,
+      "category": "Average"
+    }
+  },
+  {
+    "rank": 48,
+    "id": "tt0064116",
+    "name": "Once Upon a Time in the West",
+    "year": 1968,
+    "imbd_votes": 324490,
+    "imdb_rating": 8.5,
+    "certificate": "U",
+    "duration": 165,
+    "genre": "Western",
+    "img_link": "https://m.media-amazon.com/images/M/MV5BY2ZkYzRlN2MtY2Q3OC00OWQwLWE4OTUtODI2ZjgwMmFkNTRhXkEyXkFqcGdeQXVyMzExODEzNDA@._V1_QL75_UY562_CR8",
+    "cast": [
+      {
+        "id": "nm0000020",
+        "name": "Henry Fonda"
+      },
+      {
+        "id": "nm0000314",
+        "name": "Charles Bronson"
+      },
+      {
+        "id": "nm0001012",
+        "name": "Claudia Cardinale"
+      },
+      {
+        "id": "nm0001673",
+        "name": "Jason Robards"
+      },
+      {
+        "id": "nm0275213",
+        "name": "Gabriele Ferzetti"
+      },
+      {
+        "id": "nm0832375",
+        "name": "Paolo Stoppa"
+      },
+      {
+        "id": "nm0834754",
+        "name": "Woody Strode"
+      },
+      {
+        "id": "nm0001181",
+        "name": "Jack Elam"
+      },
+      {
+        "id": "nm0943978",
+        "name": "Keenan Wynn"
+      },
+      {
+        "id": "nm0938231",
+        "name": "Frank Wolff"
+      },
+      {
+        "id": "nm0822034",
+        "name": "Lionel Stander"
+      },
+      {
+        "id": "nm0029074",
+        "name": "Livio Andronico"
+      },
+      {
+        "id": "nm0059879",
+        "name": "Salvatore Basile"
+      },
+      {
+        "id": "nm0078044",
+        "name": "Aldo Berti"
+      },
+      {
+        "id": "nm7994173",
+        "name": "Joseph Bradley"
+      },
+      {
+        "id": "nm0106394",
+        "name": "Frank Bra\u00f1a"
+      },
+      {
+        "id": "nm0141434",
+        "name": "Maril\u00f9 Carteny"
+      },
+      {
+        "id": "nm0148755",
+        "name": "Saturno Cerra"
+      }
+    ],
+    "director": {
+      "id": "nm0001466",
+      "name": "Sergio Leone"
+    },
+    "writers": [
+      {
+        "id": "nm0006872",
+        "name": "Sergio Donati",
+        "valid": true
+      },
+      {
+        "id": "nm0001466",
+        "name": "Sergio Leone",
+        "valid": true
+      },
+      {
+        "id": "nm0000783",
+        "name": "Dario Argento",
+        "valid": true
+      }
+    ],
+    "extra_genres": [
+      "Western"
+    ],
+    "rating_percentage": 85.0,
+    "popularity_score": 2758.16,
+    "duration_hours": 2.75,
+    "release_date": "1968-01-01",
+    "reception": {
+      "year_average_rating": 8.5,
+      "rating_difference": 0.0,
+      "category": "Average"
+    }
+  }
+]
